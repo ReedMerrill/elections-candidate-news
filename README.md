@@ -1,0 +1,1 @@
+This project scrapes news articles to measure the number of times elections candidates are mentioned during the course of a campaign. Its goal is to determine how being mentioned in an online newspaper affects a political candidate's probability of being elected.
