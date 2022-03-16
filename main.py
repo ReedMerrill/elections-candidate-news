@@ -13,19 +13,18 @@ session = HTMLSession()
 response = session.get(url)
 response.html.render() # render javascript
 
-# get urls to give to newspaper3k
-containers = response.html.find('.article-card__link')
+urls_out = []
+for html in response.html:
 
-# isolate the hrefs from the container list items
+    # get article url containers
+    containers = response.html.find(selector='.article-card__link')
 
-# Grab url of each the article
-base = 'https://calgaryherald.com'
-href = response.html.xpath('/html/body/main/div/div/div[2]/div/article[1]/div/div/a/@href')[0]
-article_url = base + href
-# follow article link
-article_response = session.get(article_url)
-article_response.html.render()
-# get article date
-date = article_response.html.xpath('/html/body/main/article/header/div/div[2]/span')[1].text
-# get main article text
-len(article_response.html.find('.article-content__content-group'))
+    # isolate the hrefs from the container list items
+    containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
+    hrefs = [container.split("href='")[1] for container in containers] # split the hrefs out of the class and select the 1th element (the href, not the string before the split pattern
+    hrefs = [href[0:len(href)-2] for href in hrefs] # clean trailing characters from hrefs
+
+    # create article urls
+    urls = ['https://calgaryherald.com'+href for href in hrefs]
+
+    return urls_out = urls_out + urls
