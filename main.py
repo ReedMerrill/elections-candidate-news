@@ -1,27 +1,39 @@
 # get webpages
 from requests import *
 from requests_html import HTMLSession
-from pandas import *
+import pandas as pd
 
+# get names for search terms
+df = pd.read_csv('ab2021_elec.csv', )
 
+# filter to Calgary only
+calgary = df[df.municipality.eq('Calgary')]
+
+# combine first and last name into one column
+names = calgary['first_name'] + '+' + calgary['last_name']
+
+# replace chars that break the url
+names = names.tolist()
+names = [name.replace(" ", "+").replace("(", "").replace(")", "").replace("'", "%27") for name in names]
 
 # define url
-search_terms = "municipal+election"
 timeframe = "-365d"
 page = "0"
-url = "https://calgaryherald.com/search/?search_text="+search_terms+"&date_range="+timeframe+"&sort=score&from="+page
 
 # get the webpage
 session = HTMLSession()
-response = session.get(url)
-response.html.render() # render javascript
 
-urls_out = []
 
 # loop through names
 for name in names:
 
-    # loop over pages
+    # form url with name of candidate from list of names
+    url = "https://calgaryherald.com/search/?search_text=" + name + "&date_range=" + timeframe + "&sort=score&from=" + page
+
+    response = session.get(url) # get response
+    response.html.render()  # render javascript
+
+    # loop over search results pages
     for html in response.html:
 
         # get article url containers
