@@ -1,0 +1,1070 @@
+,ind_id,race_id,municipality,csd,province,first_name,last_name,party,votes_received,total_votes,incumbent,elected,acclaimed,gender,election_year,election_date,position,ward,source
+0,,MedicineHat2021mayor99,Medicine Hat,,AB,Linnsie,Clark,Independent,13151.0,19797.0,0,1,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+1,,MedicineHat2021mayor99,Medicine Hat,,AB,Ted,Clugston,Independent,4639.0,19797.0,1,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+2,,MedicineHat2021mayor99,Medicine Hat,,AB,Tony,Leahy,Independent,319.0,19797.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+3,,MedicineHat2021mayor99,Medicine Hat,,AB,Alan Angus,Rose,Independent,1562.0,19797.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+4,,MedicineHat2021mayor99,Medicine Hat,,AB,Michael,Starner,Independent,126.0,19797.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+5,,MedicineHat2021councillor99,Medicine Hat,,AB,Kelly,Allard,Independent,3450.0,115735.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+6,,MedicineHat2021councillor99,Medicine Hat,,AB,Mark,Asham,Independent,1831.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+7,,MedicineHat2021councillor99,Medicine Hat,,AB,Bill,Bergeson,Independent,2911.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+8,,MedicineHat2021councillor99,Medicine Hat,,AB,Jim,Black,Independent,3082.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+9,,MedicineHat2021councillor99,Medicine Hat,,AB,Mandi,Campbell,Independent,4226.0,115735.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+10,,MedicineHat2021councillor99,Medicine Hat,,AB,Stephen,Campbell,Independent,1481.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+11,,MedicineHat2021councillor99,Medicine Hat,,AB,Brian,Dueck,Independent,3397.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+12,,MedicineHat2021councillor99,Medicine Hat,,AB,Robert,Dumanowski,Independent,7737.0,115735.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+13,,MedicineHat2021councillor99,Medicine Hat,,AB,Shane,Gilmore,Independent,346.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+14,,MedicineHat2021councillor99,Medicine Hat,,AB,Bradley,Gruszie,Independent,1081.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+15,,MedicineHat2021councillor99,Medicine Hat,,AB,Paul Wray,Hemsing,Independent,2375.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+16,,MedicineHat2021councillor99,Medicine Hat,,AB,Cassie,Hider,Independent,6747.0,115735.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+17,,MedicineHat2021councillor99,Medicine Hat,,AB,Darren,Hirsch,Independent,5283.0,115735.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+18,,MedicineHat2021councillor99,Medicine Hat,,AB,Jay,Hitchen,Independent,1348.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+19,,MedicineHat2021councillor99,Medicine Hat,,AB,Marco,Jansen,Independent,3413.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+20,,MedicineHat2021councillor99,Medicine Hat,,AB,Praveen,Joshi,Independent,2341.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+21,,MedicineHat2021councillor99,Medicine Hat,,AB,Allison,Knodel,Independent,8083.0,115735.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+22,,MedicineHat2021councillor99,Medicine Hat,,AB,Nicholas,Martin,Independent,603.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+23,,MedicineHat2021councillor99,Medicine Hat,,AB,Roger Steven,McClary,Independent,617.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+24,,MedicineHat2021councillor99,Medicine Hat,,AB,Andy,McGrogan,Independent,8095.0,115735.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+25,,MedicineHat2021councillor99,Medicine Hat,,AB,Immanuel,Moritz,Independent,3996.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+26,,MedicineHat2021councillor99,Medicine Hat,,AB,Warren,Pister,Independent,2316.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+27,,MedicineHat2021councillor99,Medicine Hat,,AB,Ramona Karen,Robins,Independent,8113.0,115735.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+28,,MedicineHat2021councillor99,Medicine Hat,,AB,Rockford,Rutledge,Independent,1876.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+29,,MedicineHat2021councillor99,Medicine Hat,,AB,Shila,Sharps,Independent,5901.0,115735.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+30,,MedicineHat2021councillor99,Medicine Hat,,AB,Jeremy,Silver,Independent,1730.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+31,,MedicineHat2021councillor99,Medicine Hat,,AB,Phil,Turnbull,Independent,4253.0,115735.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+32,,MedicineHat2021councillor99,Medicine Hat,,AB,Charles Chuck,Turner,Independent,771.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+33,,MedicineHat2021councillor99,Medicine Hat,,AB,Jim,Turner,Independent,371.0,115735.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+34,,MedicineHat2021councillor99,Medicine Hat,,AB,Alison,Van Dyke,Independent,7225.0,115735.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+35,,MedicineHat2021councillor99,Medicine Hat,,AB,Brian,Varga,Independent,4403.0,115735.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+36,,MedicineHat2021councillor99,Medicine Hat,,AB,Brian,Webster,Independent,3722.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+37,,MedicineHat2021councillor99,Medicine Hat,,AB,Justin,Wright,Independent,2611.0,115735.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+38,,LethbrideCounty2021councillor1,Lethbridge County,,AB,Lorne,Hickey,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+39,,LethbrideCounty2021councillor2,Lethbridge County,,AB,Tory,Campbell,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+40,,LethbrideCounty2021councillor3,Lethbridge County,,AB,Robert,Horvath,Independent,58.0,234.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+41,,LethbrideCounty2021councillor3,Lethbridge County,,AB,Mark,Sayers,Independent,176.0,234.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+42,,LethbrideCounty2021councillor4,Lethbridge County,,AB,John,Kuerbis,Independent,181.0,298.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+43,,LethbrideCounty2021councillor4,Lethbridge County,,AB,Michael,Schooten,Independent,117.0,298.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+44,,LethbrideCounty2021councillor6,Lethbridge County,,AB,Klaas,Vander Veen,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+45,,LethbrideCounty2021councillor7,Lethbridge County,,AB,Morris,Zeinstra,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+46,,Lethbridge2021mayor99,Lethbridge,,AB,Sheldon Joseph,Day Chief,Independent,1079.0,27984.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+47,,Lethbridge2021mayor99,Lethbridge,,AB,Blaine E.,Higgins,Independent,11973.0,27984.0,0,1,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+48,,Lethbridge2021mayor99,Lethbridge,,AB,Gary L.,Klassen,Independent,687.0,27984.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+49,,Lethbridge2021mayor99,Lethbridge,,AB,Bridget,Mearns,Independent,11465.0,27984.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+50,,Lethbridge2021mayor99,Lethbridge,,AB,Kolton (tha maniac),Menzak,Independent,321.0,27984.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+51,,Lethbridge2021mayor99,Lethbridge,,AB,Stephen,Mogdan,Independent,2459.0,27984.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+52,,Lethbridge2021councillor99,Lethbridge,,AB,Kelti,Baird,Independent,5785.0,164920.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+53,,Lethbridge2021councillor99,Lethbridge,,AB,Marissa,Black,Independent,4839.0,164920.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+54,,Lethbridge2021councillor99,Lethbridge,,AB,Mark,Campbell,Independent,9117.0,164920.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+55,,Lethbridge2021councillor99,Lethbridge,,AB,Jeff,Carlson,Independent,8877.0,164920.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+56,,Lethbridge2021councillor99,Lethbridge,,AB,Ben,Christensen,Independent,1207.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+57,,Lethbridge2021councillor99,Lethbridge,,AB,Belinda,Crowson,Independent,10738.0,164920.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+58,,Lethbridge2021councillor99,Lethbridge,,AB,Rajko,Dodic,Independent,12079.0,164920.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+59,,Lethbridge2021councillor99,Lethbridge,,AB,Rufa,Doria,Independent,4777.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+60,,Lethbridge2021councillor99,Lethbridge,,AB,Jerry,Firth,Independent,4695.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+61,,Lethbridge2021councillor99,Lethbridge,,AB,Bill,Ginther,Independent,6289.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+62,,Lethbridge2021councillor99,Lethbridge,,AB,Zachary,Hampton,Independent,2848.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+63,,Lethbridge2021councillor99,Lethbridge,,AB,Dale P.,Leier,Independent,2333.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+64,,Lethbridge2021councillor99,Lethbridge,,AB,Ryan,Lepko,Independent,3835.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+65,,Lethbridge2021councillor99,Lethbridge,,AB,Darcy,Logan,Independent,4883.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+66,,Lethbridge2021councillor99,Lethbridge,,AB,Shelby J.,Macleod,Independent,3661.0,164920.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+67,,Lethbridge2021councillor99,Lethbridge,,AB,Bernard (Bernie),Mbonihankuye,Independent,850.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+68,,Lethbridge2021councillor99,Lethbridge,,AB,John,Middleton-Hope,Independent,10046.0,164920.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+69,,Lethbridge2021councillor99,Lethbridge,,AB,Nick,Paladino,Independent,7916.0,164920.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+70,,Lethbridge2021councillor99,Lethbridge,,AB,Ryan,Parker,Independent,10256.0,164920.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+71,,Lethbridge2021councillor99,Lethbridge,,AB,Harold (Harold!),Pereverseff,Independent,5643.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+72,,Lethbridge2021councillor99,Lethbridge,,AB,Michael,Petrakis,Independent,406.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+73,,Lethbridge2021councillor99,Lethbridge,,AB,Jennifer (Jenn),Prosser,Independent,5872.0,164920.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+74,,Lethbridge2021councillor99,Lethbridge,,AB,Chris,Rowley,Independent,763.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+75,,Lethbridge2021councillor99,Lethbridge,,AB,Wally,Schenk,Independent,5574.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+76,,Lethbridge2021councillor99,Lethbridge,,AB,Jenn,Schmidt-Rempel,Independent,10463.0,164920.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+77,,Lethbridge2021councillor99,Lethbridge,,AB,Suketu,Shah,Independent,3636.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+78,,Lethbridge2021councillor99,Lethbridge,,AB,Boyd,Thomas,Independent,3083.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+79,,Lethbridge2021councillor99,Lethbridge,,AB,Tim,Vanderbeek,Independent,2720.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+80,,Lethbridge2021councillor99,Lethbridge,,AB,Robin Ryan,Walker,Independent,1884.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+81,,Lethbridge2021councillor99,Lethbridge,,AB,Bradley L.,Whalen,Independent,487.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+82,,Lethbridge2021councillor99,Lethbridge,,AB,Davey,Wiggers,Independent,1707.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+83,,Lethbridge2021councillor99,Lethbridge,,AB,Ryan,Wolfe,Independent,7651.0,164920.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+84,,Brooks2021mayor99,Brooks,,AB,Norman,Gerestein,Independent,1162.0,2742.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+85,,Brooks2021mayor99,Brooks,,AB,John,Petrie,Independent,1580.0,2742.0,0,1,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+86,,Brooks2021councillor99,Brooks,,AB,Joel,Goodnough,Independent,1336.0,12436.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+87,,Brooks2021councillor99,Brooks,,AB,Mohammed,Idriss,Independent,1150.0,12436.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+88,,Brooks2021councillor99,Brooks,,AB,Fakhar,Islam,Independent,412.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+89,,Brooks2021councillor99,Brooks,,AB,Ray,Juska,Independent,1117.0,12436.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+90,,Brooks2021councillor99,Brooks,,AB,Chris,Kenney,Independent,435.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+91,,Brooks2021councillor99,Brooks,,AB,Grace,Miedema,Independent,744.0,12436.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+92,,Brooks2021councillor99,Brooks,,AB,Ryan,Mobbs,Independent,639.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+93,,Brooks2021councillor99,Brooks,,AB,Jon,Nesbitt,Independent,1367.0,12436.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+94,,Brooks2021councillor99,Brooks,,AB,Bill,Prentice,Independent,1146.0,12436.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+95,,Brooks2021councillor99,Brooks,,AB,Mike,Regner,Independent,810.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+96,,Brooks2021councillor99,Brooks,,AB,Jim,Third,Independent,1113.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+97,,Brooks2021councillor99,Brooks,,AB,Marisssa,Wardrop,Independent,1213.0,12436.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+98,,Brooks2021councillor99,Brooks,,AB,Dave,Zukowki,Independent,954.0,12436.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+99,,Strathmore2021mayor99,Strathmore,,AB,Lorraine,Bauer,Independent,486.0,3594.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+100,,Strathmore2021mayor99,Strathmore,,AB,Jason,Chase,Independent,95.0,3594.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+101,,Strathmore2021mayor99,Strathmore,,AB,Patrick,Fule,Independent,2019.0,3594.0,1,1,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+102,,Strathmore2021mayor99,Strathmore,,AB,Jason,Hollingsworth,Independent,994.0,3594.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+103,,Strathmore2021councillor99,Strathmore,,AB,Brian,Cunningham,Independent,961.0,17039.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+104,,Strathmore2021councillor99,Strathmore,,AB,Nicole,Gibbons,Independent,1103.0,17039.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+105,,Strathmore2021councillor99,Strathmore,,AB,John,Hilton-O'Brien,Independent,1373.0,17039.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+106,,Strathmore2021councillor99,Strathmore,,AB,Ken,Kuenzi,Independent,1297.0,17039.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+107,,Strathmore2021councillor99,Strathmore,,AB,Melissa,Langmaid,Independent,1671.0,17039.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+108,,Strathmore2021councillor99,Strathmore,,AB,Debbie,Mitzner,Independent,1536.0,17039.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+109,,Strathmore2021councillor99,Strathmore,,AB,Jason,Montgomery,Independent,1544.0,17039.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+110,,Strathmore2021councillor99,Strathmore,,AB,Denise,Peterson,Independent,1672.0,17039.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+111,,Strathmore2021councillor99,Strathmore,,AB,Jacy,Rapke,Independent,1308.0,17039.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+112,,Strathmore2021councillor99,Strathmore,,AB,Kevin,Reynolds,Independent,604.0,17039.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+113,,Strathmore2021councillor99,Strathmore,,AB,Craig,Vandenberg,Independent,941.0,17039.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+114,,Strathmore2021councillor99,Strathmore,,AB,Richard,Wegener,Independent,1502.0,17039.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+115,,Strathmore2021councillor99,Strathmore,,AB,Brent,Wiley,Independent,1527.0,17039.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+116,,FoothillsNo.312021councillor1,Foothills No. 31,,AB,Robert,Siewert,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+117,,FoothillsNo.312021councillor2,Foothills No. 31,,AB,Delilah,Miller,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+118,,FoothillsNo.312021councillor3,Foothills No. 31,,AB,Hugo,Bonjean,Independent,177.0,878.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+119,,FoothillsNo.312021councillor3,Foothills No. 31,,AB,Barbara,Castell,Independent,275.0,878.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+120,,FoothillsNo.312021councillor3,Foothills No. 31,,AB,Laura,Kendall,Independent,224.0,878.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+121,,FoothillsNo.312021councillor3,Foothills No. 31,,AB,Dan,MacDonald,Independent,202.0,878.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+122,,FoothillsNo.312021councillor4,Foothills No. 31,,AB,Suzanne,Oel,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+123,,FoothillsNo.312021councillor5,Foothills No. 31,,AB,Alan,Alger,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+124,,FoothillsNo.312021councillor6,Foothills No. 31,,AB,John,Callister,Independent,215.0,708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+125,,FoothillsNo.312021councillor6,Foothills No. 31,,AB,Don,Waldorf,Independent,493.0,708.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+126,,FoothillsNo.312021councillor7,Foothills No. 31,,AB,Wayne,Anderson,Independent,183.0,667.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+127,,FoothillsNo.312021councillor7,Foothills No. 31,,AB,Janet,Andrusiw,Independent,116.0,667.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+128,,FoothillsNo.312021councillor7,Foothills No. 31,,AB,Ronald,McHugh,Independent,368.0,667.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+129,,HighRiver2021mayor99,High River,,AB,Jeff,Langford,Independent,1586.0,4212.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+130,,HighRiver2021mayor99,High River,,AB,Craig L.,Snodgrass,Independent,2626.0,4212.0,1,1,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+131,,HighRiver2021councillor99,High River,,AB,Jamie (James),Barton,Independent,1866.0,21591.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+132,,HighRiver2021councillor99,High River,,AB,Ken,Bayliff,Independent,538.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+133,,HighRiver2021councillor99,High River,,AB,Terry,Coleman,Independent,1546.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+134,,HighRiver2021councillor99,High River,,AB,Dominick,Dodge,Independent,560.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+135,,HighRiver2021councillor99,High River,,AB,Deborah,Gauger,Independent,1529.0,21591.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+136,,HighRiver2021councillor99,High River,,AB,Jenny,Jones,Independent,2255.0,21591.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+137,,HighRiver2021councillor99,High River,,AB,Kelly Rianne,Killick-Smit,Independent,1860.0,21591.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+138,,HighRiver2021councillor99,High River,,AB,Jamie,Kinghorn,Independent,2310.0,21591.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+139,,HighRiver2021councillor99,High River,,AB,David,Moretta,Independent,1737.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+140,,HighRiver2021councillor99,High River,,AB,Michael,Nychyk,Independent,2409.0,21591.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+141,,HighRiver2021councillor99,High River,,AB,Rylan John,Siggelkow,Independent,1704.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+142,,HighRiver2021councillor99,High River,,AB,Monty,Stafford,Independent,1232.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+143,,HighRiver2021councillor99,High River,,AB,Dominic,VonRaven,Independent,276.0,21591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+144,,HighRiver2021councillor99,High River,,AB,Brenda,Walsh,Independent,1769.0,21591.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+145,,Okotoks2021mayor99,Okotoks,,AB,Naydene,Lewis,Independent,1166.0,7451.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+146,,Okotoks2021mayor99,Okotoks,,AB,Jeff,Reinhart,Independent,1876.0,7451.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+147,,Okotoks2021mayor99,Okotoks,,AB,Tanya,Thorn,Independent,4409.0,7451.0,0,1,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+148,,Okotoks2021councillor99,Okotoks,,AB,Cheryl,Actemichuk,Independent,2952.0,35375.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+149,,Okotoks2021councillor99,Okotoks,,AB,Ryan,Brown,Independent,1855.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+150,,Okotoks2021councillor99,Okotoks,,AB,Sylvia,Doublet,Independent,999.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+151,,Okotoks2021councillor99,Okotoks,,AB,Ashley,Dreger,Independent,1068.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+152,,Okotoks2021councillor99,Okotoks,,AB,Dusty,Froom,Independent,697.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+153,,Okotoks2021councillor99,Okotoks,,AB,Oliver,Hallmark,Independent,2328.0,35375.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+154,,Okotoks2021councillor99,Okotoks,,AB,Leona,Ham,Independent,192.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+155,,Okotoks2021councillor99,Okotoks,,AB,Ken,Heemeryck,Independent,2799.0,35375.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+156,,Okotoks2021councillor99,Okotoks,,AB,Jakob,Hansel,Independent,433.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+157,,Okotoks2021councillor99,Okotoks,,AB,Gord,Lang,Independent,2231.0,35375.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+158,,Okotoks2021councillor99,Okotoks,,AB,Wendy,Langton,Independent,1445.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+159,,Okotoks2021councillor99,Okotoks,,AB,Shawna,Lawson,Independent,2120.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+160,,Okotoks2021councillor99,Okotoks,,AB,James,Lee,Independent,721.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+161,,Okotoks2021councillor99,Okotoks,,AB,Don,Mably,Independent,741.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+162,,Okotoks2021councillor99,Okotoks,,AB,Jessica,Maurice,Independent,1464.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+163,,Okotoks2021councillor99,Okotoks,,AB,Renee,Miller,Independent,990.0,35375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+164,,Okotoks2021councillor99,Okotoks,,AB,Ryan,Nix,Independent,1926.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+165,,Okotoks2021councillor99,Okotoks,,AB,Dan,Onerheim,Independent,1148.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+166,,Okotoks2021councillor99,Okotoks,,AB,Trellis,Palmer,Independent,1176.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+167,,Okotoks2021councillor99,Okotoks,,AB,Rodney Rene,Potrie,Independent,978.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+168,,Okotoks2021councillor99,Okotoks,,AB,Rachel,Swandseid,Independent,2360.0,35375.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+169,,Okotoks2021councillor99,Okotoks,,AB,Brent,Robinson,Independent,3339.0,35375.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+170,,Okotoks2021councillor99,Okotoks,,AB,Glen,Stiebsen,Independent,389.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+171,,Okotoks2021councillor99,Okotoks,,AB,Tassidq Hussain,Syed,Independent,1024.0,35375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+172,,RockyViewCounty2021councillor1,Rocky View County,,AB,Kevin,Hanson,Independent,1024.0,1753.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+173,,RockyViewCounty2021councillor1,Rocky View County,,AB,Brent,Moore,Independent,729.0,1753.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+174,,RockyViewCounty2021councillor2,Rocky View County,,AB,Don,Kochan,Independent,1022.0,1810.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+175,,RockyViewCounty2021councillor2,Rocky View County,,AB,Kim,McKylor,Independent,788.0,1810.0,1,0,0,F,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+176,,RockyViewCounty2021councillor3,Rocky View County,,AB,Jolene,Airth,Independent,745.0,1551.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+177,,RockyViewCounty2021councillor3,Rocky View County,,AB,Crystal,Kissel,Independent,806.0,1551.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+178,,RockyViewCounty2021councillor4,Rocky View County,,AB,Dan,Henn,Independent,333.0,1898.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+179,,RockyViewCounty2021councillor4,Rocky View County,,AB,Roc,Spence,Independent,757.0,1898.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+180,,RockyViewCounty2021councillor4,Rocky View County,,AB,Samanntha,Wright,Independent,808.0,1898.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+181,,RockyViewCounty2021councillor5,Rocky View County,,AB,Greg,Boehike,Independent,707.0,1729.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+182,,RockyViewCounty2021councillor5,Rocky View County,,AB,Theodore,Francois,Independent,389.0,1729.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+183,,RockyViewCounty2021councillor5,Rocky View County,,AB,Mark,Jette,Independent,437.0,1729.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+184,,RockyViewCounty2021councillor5,Rocky View County,,AB,John,McMurray,Independent,196.0,1729.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+185,,RockyViewCounty2021councillor6,Rocky View County,,AB,Roland,Ashdown,Independent,452.0,1980.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+186,,RockyViewCounty2021councillor6,Rocky View County,,AB,Jerry,Gautreau,Independent,450.0,1980.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+187,,RockyViewCounty2021councillor6,Rocky View County,,AB,Sunny,Samra,Independent,969.0,1980.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+188,,RockyViewCounty2021councillor6,Rocky View County,,AB,Jeremy,Stinson,Independent,109.0,1980.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+189,,RockyViewCounty2021councillor7,Rocky View County,,AB,Sylsha,Bates,Independent,460.0,1137.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+190,,RockyViewCounty2021councillor7,Rocky View County,,AB,Al,Schule,Independent,677.0,1137.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+191,,GrandePrairie2021mayor99,Grande Prairie,,AB,Jackie,Clayton,Independent,4270.0,9552.0,0,1,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+192,,GrandePrairie2021mayor99,Grande Prairie,,AB,Eunice,Friesen,Independent,4135.0,9552.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+193,,GrandePrairie2021mayor99,Grande Prairie,,AB,Bryan,Petryshyn,Independent,310.0,9552.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+194,,GrandePrairie2021mayor99,Grande Prairie,,AB,Glyn,Gruner,Independent,837.0,9552.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+195,,GrandePrairie2021councillor99,Grande Prairie,,AB,Ejibola Folashade,Adetokunbo-Taiwo,Independent,1832.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+196,,GrandePrairie2021councillor99,Grande Prairie,,AB,Grant,Berg,Independent,5014.0,55922.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+197,,GrandePrairie2021councillor99,Grande Prairie,,AB,Gladys,Blackmore,Independent,3300.0,55922.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+198,,GrandePrairie2021councillor99,Grande Prairie,,AB,Wendy,Bosch,Independent,3803.0,55922.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+199,,GrandePrairie2021councillor99,Grande Prairie,,AB,Dylan,Bressey,Independent,4493.0,55922.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+200,,GrandePrairie2021councillor99,Grande Prairie,,AB,Tammy,Brown,Independent,2923.0,55922.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+201,,GrandePrairie2021councillor99,Grande Prairie,,AB,Melissa J.,Erickson,Independent,2410.0,55922.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+202,,GrandePrairie2021councillor99,Grande Prairie,,AB,Gerald Scott,Hafner,Independent,1209.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+203,,GrandePrairie2021councillor99,Grande Prairie,,AB,Michelle Lena,Jasper,Independent,1554.0,55922.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+204,,GrandePrairie2021councillor99,Grande Prairie,,AB,John,Lehners,Independent,3719.0,55922.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+205,,GrandePrairie2021councillor99,Grande Prairie,,AB,Kevin,McLean,Independent,2985.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+206,,GrandePrairie2021councillor99,Grande Prairie,,AB,Yad,Minhas,Independent,3010.0,55922.0,1,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+207,,GrandePrairie2021councillor99,Grande Prairie,,AB,Paul Rovin,Ngetmital,Independent,454.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+208,,GrandePrairie2021councillor99,Grande Prairie,,AB,Mike,O'Connor,Independent,3284.0,55922.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+209,,GrandePrairie2021councillor99,Grande Prairie,,AB,Solomon,Okifoh,Independent,2765.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+210,,GrandePrairie2021councillor99,Grande Prairie,,AB,Kevin,O'Toole,Independent,4103.0,55922.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+211,,GrandePrairie2021councillor99,Grande Prairie,,AB,Sarvinder,Singh,Independent,1582.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+212,,GrandePrairie2021councillor99,Grande Prairie,,AB,Chris,Thiessen,Independent,5515.0,55922.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+213,,GrandePrairie2021councillor99,Grande Prairie,,AB,Neil,Tuazon,Independent,1967.0,55922.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+214,,St.Albert2021mayor99,St. Albert,,AB,Catherine (Cathy),Heron,Independent,6946.0,17618.0,1,1,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+215,,St.Albert2021mayor99,St. Albert,,AB,David,Letourneau,Independent,2586.0,17618.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+216,,St.Albert2021mayor99,St. Albert,,AB,Bob,Russell,Independent,1745.0,17618.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+217,,St.Albert2021mayor99,St. Albert,,AB,Angela,Wood,Independent,6341.0,17618.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+218,,St.Albert2021councillor99,St. Albert,,AB,Shelley,Biermanski,Independent,6278.0,89508.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+219,,St.Albert2021councillor99,St. Albert,,AB,Wes,Brodhead,Independent,7248.0,89508.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+220,,St.Albert2021councillor99,St. Albert,,AB,Gilbert,Cantin,Independent,3214.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+221,,St.Albert2021councillor99,St. Albert,,AB,Sandy,Clark,Independent,6045.0,89508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+222,,St.Albert2021councillor99,St. Albert,,AB,Jennifer,Cote,Independent,4840.0,89508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+223,,St.Albert2021councillor99,St. Albert,,AB,Mike,Ferguson,Independent,1267.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+224,,St.Albert2021councillor99,St. Albert,,AB,Ross,Guffei,Independent,4955.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+225,,St.Albert2021councillor99,St. Albert,,AB,Sheena,Hughes,Independent,7813.0,89508.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+226,,St.Albert2021councillor99,St. Albert,,AB,Jess,Kevan Donald,Independent,4100.0,89508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+227,,St.Albert2021councillor99,St. Albert,,AB,Natalie,Joly,Independent,7091.0,89508.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+228,,St.Albert2021councillor99,St. Albert,,AB,Rachel,Jones,Independent,4104.0,89508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+229,,St.Albert2021councillor99,St. Albert,,AB,Donna,Kawahara,Independent,4079.0,89508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+230,,St.Albert2021councillor99,St. Albert,,AB,Mike,Killick,Independent,6376.0,89508.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+231,,St.Albert2021councillor99,St. Albert,,AB,Shawn Michael,LeMay,Independent,2700.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+232,,St.Albert2021councillor99,St. Albert,,AB,Ken,MacKay,Independent,7812.0,89508.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+233,,St.Albert2021councillor99,St. Albert,,AB,Wally,Popik,Independent,2388.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+234,,St.Albert2021councillor99,St. Albert,,AB,Louis,Sobelewski,Independent,2623.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+235,,St.Albert2021councillor99,St. Albert,,AB,Isador Peter,Stoyko,Independent,1370.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+236,,St.Albert2021councillor99,St. Albert,,AB,Joseph,Trapani,Independent,888.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+237,,St.Albert2021councillor99,St. Albert,,AB,Leonard,Wilkins,Independent,4317.0,89508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+238,,Cochrane2021mayor99,Cochrane,,AB,Jeff,Genung,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+239,,Cochrane2021councillor99,Cochrane,,AB,Kaitlin,Chamberlain,Independent,981.0,33708.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+240,,Cochrane2021councillor99,Cochrane,,AB,Alan,Cox,Independent,874.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+241,,Cochrane2021councillor99,Cochrane,,AB,Paul Gregory,Crierie,Independent,739.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+242,,Cochrane2021councillor99,Cochrane,,AB,Brandon Michael,Cruze,Independent,1584.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+243,,Cochrane2021councillor99,Cochrane,,AB,Daniel,Cunin,Independent,1478.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+244,,Cochrane2021councillor99,Cochrane,,AB,Marni,Fedeyko,Independent,3036.0,33708.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+245,,Cochrane2021councillor99,Cochrane,,AB,Susan,Flowers,Independent,2956.0,33708.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+246,,Cochrane2021councillor99,Cochrane,,AB,Erika,Lange,Independent,951.0,33708.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+247,,Cochrane2021councillor99,Cochrane,,AB,Tara,McFadden,Independent,3140.0,33708.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+248,,Cochrane2021councillor99,Cochrane,,AB,Ryan,McMillan,Independent,1220.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+249,,Cochrane2021councillor99,Cochrane,,AB,Todd,Muir,Independent,1395.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+250,,Cochrane2021councillor99,Cochrane,,AB,Alexander William,Murphy,Independent,184.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+251,,Cochrane2021councillor99,Cochrane,,AB,Deborah,Murphy,Independent,875.0,33708.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+252,,Cochrane2021councillor99,Cochrane,,AB,Morgan,Nagel,Independent,3527.0,33708.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+253,,Cochrane2021councillor99,Cochrane,,AB,Samantha Lynn,Nickerson,Independent,1112.0,33708.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+254,,Cochrane2021councillor99,Cochrane,,AB,Alex,Reed,Independent,2498.0,33708.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+255,,Cochrane2021councillor99,Cochrane,,AB,Paul,Singh,Independent,2420.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+256,,Cochrane2021councillor99,Cochrane,,AB,Bruce,Townley,Independent,1788.0,33708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+257,,Cochrane2021councillor99,Cochrane,,AB,Patrick,Wilson,Independent,2950.0,33708.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+258,,Airdrie2021mayor99,Airdrie,,AB,Peter,Brown,Independent,7847.0,11821.0,1,1,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+259,,Airdrie2021mayor99,Airdrie,,AB,Lindsey,Coyle,Independent,2382.0,11821.0,0,0,0,F,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+260,,Airdrie2021mayor99,Airdrie,,AB,Allan,Hunter,Independent,1592.0,11821.0,0,0,0,M,2021,2021-10-18T00:00:00Z,mayor,99.0,Canadian Municipal Barometer
+261,,Airdrie2021councillor99,Airdrie,,AB,Sunday,Adeleye,Independent,2020.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+262,,Airdrie2021councillor99,Airdrie,,AB,Darrell,Belyk,Independent,3014.0,55816.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+263,,Airdrie2021councillor99,Airdrie,,AB,Trevor,Cameron,Independent,2163.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+264,,Airdrie2021councillor99,Airdrie,,AB,Ronald,Chapman,Independent,5161.0,55816.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+265,,Airdrie2021councillor99,Airdrie,,AB,Jaclyn,Dorchak,Independent,2738.0,55816.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+266,,Airdrie2021councillor99,Airdrie,,AB,Christopher,Glass,Independent,2550.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+267,,Airdrie2021councillor99,Airdrie,,AB,Derrick,Greenwood,Independent,2144.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+268,,Airdrie2021councillor99,Airdrie,,AB,Alfred,Jones,Independent,4502.0,55816.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+269,,Airdrie2021councillor99,Airdrie,,AB,Candice,Kolson,Independent,5111.0,55816.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+270,,Airdrie2021councillor99,Airdrie,,AB,Reggie,Lang,Independent,1391.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+271,,Airdrie2021councillor99,Airdrie,,AB,Rachael,Mercedes,Independent,2084.0,55816.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+272,,Airdrie2021councillor99,Airdrie,,AB,Sylvia Lorena,Perez Leal,Independent,2072.0,55816.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+273,,Airdrie2021councillor99,Airdrie,,AB,Tina,Petrow,Independent,6827.0,55816.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+274,,Airdrie2021councillor99,Airdrie,,AB,Jay,Raymundo,Independent,2917.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+275,,Airdrie2021councillor99,Airdrie,,AB,Heather,Spearman,Independent,4937.0,55816.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+276,,Airdrie2021councillor99,Airdrie,,AB,Mark,Steffler,Independent,2823.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+277,,Airdrie2021councillor99,Airdrie,,AB,Christopher,Stockton,Independent,2757.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+278,,Airdrie2021councillor99,Airdrie,,AB,Tanveer,Taj,Independent,605.0,55816.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+279,,Leduc2021mayor99,Leduc,,AB,Karen,Richert,Independent,914.0,6931.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+280,,Leduc2021mayor99,Leduc,,AB,Lynn Dale,Schrader,Independent,1426.0,6931.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+281,,Leduc2021mayor99,Leduc,,AB,Robert John,Young,Independent,4591.0,6931.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+282,,Leduc2021councillor99,Leduc,,AB,Beverly Dianne,Beckett,Independent,3617.0,33044.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+283,,Leduc2021councillor99,Leduc,,AB,Glen W.,Finstad,Independent,3844.0,33044.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+284,,Leduc2021councillor99,Leduc,,AB,Tammy,Haayema,Independent,2922.0,33044.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+285,,Leduc2021councillor99,Leduc,,AB,William Cedric,Hamilton,Independent,3476.0,33044.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+286,,Leduc2021councillor99,Leduc,,AB,Lars,Hansen,Independent,4688.0,33044.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+287,,Leduc2021councillor99,Leduc,,AB,Jeremy Lyle,Langedahl,Independent,1081.0,33044.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+288,,Leduc2021councillor99,Leduc,,AB,Terry,Lazowski,Independent,3225.0,33044.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+289,,Leduc2021councillor99,Leduc,,AB,Dawn,Macdougall,Independent,2840.0,33044.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+290,,Leduc2021councillor99,Leduc,,AB,Ryan Joel,Pollard,Independent,3576.0,33044.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+291,,Leduc2021councillor99,Leduc,,AB,Laura,Tillack,Independent,3775.0,33044.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+292,,RedDeer2021mayor99,Red Deer,,AB,James,Allen,Independent,389.0,21204.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+293,,RedDeer2021mayor99,Red Deer,,AB,S.H (Buck),Buchanan,Independent,3086.0,21204.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+294,,RedDeer2021mayor99,Red Deer,,AB,Dwight G.,Hickey,Independent,900.0,21204.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+295,,RedDeer2021mayor99,Red Deer,,AB,Ken,Johnston,Independent,11611.0,21204.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+296,,RedDeer2021mayor99,Red Deer,,AB,Bradley James,Magee,Independent,2049.0,21204.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+297,,RedDeer2021mayor99,Red Deer,,AB,Jeremy Richard,Moore,Independent,3169.0,21204.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+298,,RedDeer2021councillor99,Red Deer,,AB,Graham,Barclay,Independent,4061.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+299,,RedDeer2021councillor99,Red Deer,,AB,Kraymer,Barnstable,Independent,5892.0,134979.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+300,,RedDeer2021councillor99,Red Deer,,AB,Bruce,Buruma,Independent,7067.0,134979.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+301,,RedDeer2021councillor99,Red Deer,,AB,Brenda,Campbell,Independent,3525.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+302,,RedDeer2021councillor99,Red Deer,,AB,Calvin,Campbell,Independent,2067.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+303,,RedDeer2021councillor99,Red Deer,,AB,Matt,Chapin,Independent,902.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+304,,RedDeer2021councillor99,Red Deer,,AB,Stephen (Steve),Coop,Independent,435.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+305,,RedDeer2021councillor99,Red Deer,,AB,Craig,Curtis,Independent,4543.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+306,,RedDeer2021councillor99,Red Deer,,AB,Michael,Dawe,Independent,12141.0,134979.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+307,,RedDeer2021councillor99,Red Deer,,AB,Victor,Doerksen,Independent,5884.0,134979.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+308,,RedDeer2021councillor99,Red Deer,,AB,Grace Joy,Engel,Independent,2540.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+309,,RedDeer2021councillor99,Red Deer,,AB,Sarah,Harksen,Independent,3290.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+310,,RedDeer2021councillor99,Red Deer,,AB,Vesna,Higham,Independent,6298.0,134979.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+311,,RedDeer2021councillor99,Red Deer,,AB,Hans,Huizing,Independent,4687.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+312,,RedDeer2021councillor99,Red Deer,,AB,Cindy,Jefferies,Independent,11304.0,134979.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+313,,RedDeer2021councillor99,Red Deer,,AB,Sadia,Khan,Independent,5000.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+314,,RedDeer2021councillor99,Red Deer,,AB,Chad,Krahn,Independent,5122.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+315,,RedDeer2021councillor99,Red Deer,,AB,Ryan Andrew,Laloge,Independent,1317.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+316,,RedDeer2021councillor99,Red Deer,,AB,Lindsay,LaRocque,Independent,1362.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+317,,RedDeer2021councillor99,Red Deer,,AB,Lawrence,Lee,Independent,8310.0,134979.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+318,,RedDeer2021councillor99,Red Deer,,AB,Nicole (Nikki),Lydiard,Independent,3725.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+319,,RedDeer2021councillor99,Red Deer,,AB,Jason,MacDonald,Independent,4677.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+320,,RedDeer2021councillor99,Red Deer,,AB,Jozef,Mihaly,Independent,1353.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+321,,RedDeer2021councillor99,Red Deer,,AB,Liam,Milaney,Independent,1634.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+322,,RedDeer2021councillor99,Red Deer,,AB,Sheyi,Olubowale,Independent,4245.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+323,,RedDeer2021councillor99,Red Deer,,AB,Harish,Ratra,Independent,2495.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+324,,RedDeer2021councillor99,Red Deer,,AB,Janise,Somer,Independent,4809.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+325,,RedDeer2021councillor99,Red Deer,,AB,Lisa,Spencer-Cook,Independent,2468.0,134979.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+326,,RedDeer2021councillor99,Red Deer,,AB,Dax,Williams,Independent,4865.0,134979.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+327,,RedDeer2021councillor99,Red Deer,,AB,Dianne,Wyntjes,Independent,8961.0,134979.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+328,,ColdLake2021mayor99,Cold Lake,,AB,Craig,Copeland,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+329,,ColdLake2021councillor99,Cold Lake,,AB,Larry,Ashcroft,Independent,600.0,13367.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+330,,ColdLake2021councillor99,Cold Lake,,AB,Ryan,Bailey,Independent,1027.0,13367.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+331,,ColdLake2021councillor99,Cold Lake,,AB,Bob,Buckle,Independent,834.0,13367.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+332,,ColdLake2021councillor99,Cold Lake,,AB,Hussein,Elkadri,Independent,760.0,13367.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+333,,ColdLake2021councillor99,Cold Lake,,AB,Sarah,Fewchuk,Independent,558.0,13367.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+334,,ColdLake2021councillor99,Cold Lake,,AB,Murray,Gauthier,Independent,800.0,13367.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+335,,ColdLake2021councillor99,Cold Lake,,AB,Ryan,Lefebvre,Independent,988.0,13367.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+336,,ColdLake2021councillor99,Cold Lake,,AB,Vicky,Lefebvre,Independent,1191.0,13367.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+337,,ColdLake2021councillor99,Cold Lake,,AB,Bob,Mattice,Independent,1725.0,13367.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+338,,ColdLake2021councillor99,Cold Lake,,AB,Rhea,McMillan,Independent,813.0,13367.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+339,,ColdLake2021councillor99,Cold Lake,,AB,William (Bill) Charles,Parker,Independent,1017.0,13367.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+340,,ColdLake2021councillor99,Cold Lake,,AB,Debra,Pelechosky,Independent,633.0,13367.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+341,,ColdLake2021councillor99,Cold Lake,,AB,Adele,Richardson,Independent,1039.0,13367.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+342,,ColdLake2021councillor99,Cold Lake,,AB,Chris,Vining,Independent,1382.0,13367.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+343,,Canmore2021mayor99,Canmore,,AB,Sean,Krausert,Independent,3125.0,4730.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+344,,Canmore2021mayor99,Canmore,,AB,Vi,Sandford,Independent,1346.0,4730.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+345,,Canmore2021mayor99,Canmore,,AB,Jeff,Laidlaw,Independent,259.0,4730.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+346,,Canmore2021councillor99,Canmore,,AB,Jeff,Mah,Independent,3281.0,23528.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+347,,Canmore2021councillor99,Canmore,,AB,Tanya,Foubert,Independent,2775.0,23528.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+348,,Canmore2021councillor99,Canmore,,AB,Joanna,McCallum,Independent,2771.0,23528.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+349,,Canmore2021councillor99,Canmore,,AB,Karen,Marra,Independent,2322.0,23528.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+350,,Canmore2021councillor99,Canmore,,AB,Jeff,Hilstad,Independent,2245.0,23528.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+351,,Canmore2021councillor99,Canmore,,AB,Wade,Graham,Independent,2174.0,23528.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+352,,Canmore2021councillor99,Canmore,,AB,Vijay,Domingo,Independent,1988.0,23528.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+353,,Canmore2021councillor99,Canmore,,AB,Jyn,San Miguel,Independent,1915.0,23528.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+354,,Canmore2021councillor99,Canmore,,AB,Rob,Seeley,Independent,1891.0,23528.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+355,,Canmore2021councillor99,Canmore,,AB,Hans,Helder,Independent,1215.0,23528.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+356,,Canmore2021councillor99,Canmore,,AB,Christoph,Braier,Independent,951.0,23528.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+357,,Chestermere2021mayor99,Chestermere,,AB,Jeff,Colvin,Independent,2927.0,4661.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+358,,Chestermere2021mayor99,Chestermere,,AB,Michelle,Young,Independent,1734.0,4661.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+359,,Chestermere2021councillor99,Chestermere,,AB,Shannon,Dean,Independent,2522.0,24105.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+360,,Chestermere2021councillor99,Chestermere,,AB,Laurie,Dunn,Independent,1858.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+361,,Chestermere2021councillor99,Chestermere,,AB,Mel,Foat,Independent,2365.0,24105.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+362,,Chestermere2021councillor99,Chestermere,,AB,Blaine,Funk,Independent,2067.0,24105.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+363,,Chestermere2021councillor99,Chestermere,,AB,Murray,Grant,Independent,1666.0,24105.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+364,,Chestermere2021councillor99,Chestermere,,AB,Stephen,Hanley,Independent,2397.0,24105.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+365,,Chestermere2021councillor99,Chestermere,,AB,Sandy (Sandeep),Johal-Watt,Independent,1952.0,24105.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+366,,Chestermere2021councillor99,Chestermere,,AB,Anna,Kardash,Independent,831.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+367,,Chestermere2021councillor99,Chestermere,,AB,Satish,Lal,Independent,1071.0,24105.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+368,,Chestermere2021councillor99,Chestermere,,AB,Morgan,Matheson,Independent,1659.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+369,,Chestermere2021councillor99,Chestermere,,AB,Cyndie,McOuat,Independent,1017.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+370,,Chestermere2021councillor99,Chestermere,,AB,Ritesh Dalip,Narayan,Independent,2146.0,24105.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+371,,Chestermere2021councillor99,Chestermere,,AB,Neena,Obhrai,Independent,683.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+372,,Chestermere2021councillor99,Chestermere,,AB,Janelle,Sandboe,Independent,1871.0,24105.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+373,,Lacombe2021mayor99,Lacombe,,AB,Grant,Creasey,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+374,,Lacombe2021councillor99,Lacombe,,AB,Don,Gullekson,Independent,1384.0,11250.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+375,,Lacombe2021councillor99,Lacombe,,AB,Thalia,Hibbs,Independent,1756.0,11250.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+376,,Lacombe2021councillor99,Lacombe,,AB,Cora,Hoekstra,Independent,1642.0,11250.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+377,,Lacombe2021councillor99,Lacombe,,AB,Jonathan,Jacobson,Independent,1128.0,11250.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+378,,Lacombe2021councillor99,Lacombe,,AB,Reuben,Konnik,Independent,1466.0,11250.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+379,,Lacombe2021councillor99,Lacombe,,AB,Chris,Ross,Independent,1211.0,11250.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+380,,Lacombe2021councillor99,Lacombe,,AB,Wayne,Armishaw,Independent,1072.0,11250.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+381,,Lacombe2021councillor99,Lacombe,,AB,Scott,Dallas,Independent,1150.0,11250.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+382,,Lacombe2021councillor99,Lacombe,,AB,W. Sandy (Pepper),Douglas,Independent,441.0,11250.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+383,,Camrose2021mayor99,Camrose,,AB,PJ,Stasko,Independent,3315.0,5395.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+384,,Camrose2021mayor99,Camrose,,AB,Max,Lindstrand,Independent,2080.0,5395.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+385,,Camrose2021councillor99,Camrose,,AB,Lucas,Banack,Independent,2558.0,32490.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+386,,Camrose2021councillor99,Camrose,,AB,Kevin,Hycha,Independent,2410.0,32490.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+387,,Camrose2021councillor99,Camrose,,AB,Agnes,Hoveland,Independent,2677.0,32490.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+388,,Camrose2021councillor99,Camrose,,AB,Don,Rosland,Independent,2802.0,32490.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+389,,Camrose2021councillor99,Camrose,,AB,Lana,Broker,Independent,2410.0,32490.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+390,,Camrose2021councillor99,Camrose,,AB,Joy-Anne,Murphy,Independent,2038.0,32490.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+391,,Camrose2021councillor99,Camrose,,AB,DJ,Ilg,Independent,2064.0,32490.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+392,,Camrose2021councillor99,Camrose,,AB,David R.,Francoeur,Independent,2107.0,32490.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+393,,Camrose2021councillor99,Camrose,,AB,Geoffrey Ryan,Turnquist,Independent,1046.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+394,,Camrose2021councillor99,Camrose,,AB,Troy,Thompson,Independent,1558.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+395,,Camrose2021councillor99,Camrose,,AB,Robbyn,Thompson,Independent,799.0,32490.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+396,,Camrose2021councillor99,Camrose,,AB,Wyatt,Tanton,Independent,951.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+397,,Camrose2021councillor99,Camrose,,AB,Greg,Sharp,Independent,1823.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+398,,Camrose2021councillor99,Camrose,,AB,Doug,MacKay,Independent,1779.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+399,,Camrose2021councillor99,Camrose,,AB,Anthony,Holler,Independent,244.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+400,,Camrose2021councillor99,Camrose,,AB,Julie,Girard,Independent,1776.0,32490.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+401,,Camrose2021councillor99,Camrose,,AB,Thomas David (Tom),Calhoun,Independent,1135.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+402,,Camrose2021councillor99,Camrose,,AB,Larissa,Berlin,Independent,823.0,32490.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+403,,Camrose2021councillor99,Camrose,,AB,Ron,Baier,Independent,1490.0,32490.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+404,,Calgary2021mayor99,Calgary,,AB,Ian,Chiang,Independent,973.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+405,,Calgary2021mayor99,Calgary,,AB,Jan,Damery,Independent,8935.0,390383.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+406,,Calgary2021mayor99,Calgary,,AB,Jeff,Davison,Independent,50654.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+407,,Calgary2021mayor99,Calgary,,AB,James,Desautels,Independent,531.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+408,,Calgary2021mayor99,Calgary,,AB,Jeromy,Farkas,Independent,116698.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+409,,Calgary2021mayor99,Calgary,,AB,Brad,Field,Independent,19329.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+410,,Calgary2021mayor99,Calgary,,AB,Emile,Gabriel,Independent,682.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+411,,Calgary2021mayor99,Calgary,,AB,Jyoti,Gondek,Independent,176344.0,390383.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+412,,Calgary2021mayor99,Calgary,,AB,Paul Michael,Hallelujah,Independent,376.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+413,,Calgary2021mayor99,Calgary,,AB,Zac,Hartley,Independent,582.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+414,,Calgary2021mayor99,Calgary,,AB,Larry R.,Heather,Independent,429.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+415,,Calgary2021mayor99,Calgary,,AB,Dean,Hopkins,Independent,1832.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+416,,Calgary2021mayor99,Calgary,,AB,Kevin J.,Johnston,Independent,1565.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+417,,Calgary2021mayor99,Calgary,,AB,Randall Earl,Kaiser,Independent,137.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+418,,Calgary2021mayor99,Calgary,,AB,Zaheed Ali,Khan,Independent,1247.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+419,,Calgary2021mayor99,Calgary,,AB,Cory,Lanterman,Independent,118.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+420,,Calgary2021mayor99,Calgary,,AB,Zane,Novak,Independent,1991.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+421,,Calgary2021mayor99,Calgary,,AB,Teddy,Ogbonna,Independent,862.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+422,,Calgary2021mayor99,Calgary,,AB,Mizanur,Rahman,Independent,450.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+423,,Calgary2021mayor99,Calgary,,AB,Geoff,Rainey,Independent,162.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+424,,Calgary2021mayor99,Calgary,,AB,Adam,Roberts,Independent,308.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+425,,Calgary2021mayor99,Calgary,,AB,Sunny,Singh,Independent,572.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+426,,Calgary2021mayor99,Calgary,,AB,Virginia,Stone,Independent,1172.0,390383.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+427,,Calgary2021mayor99,Calgary,,AB,Will,Vizor,Independent,204.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+428,,Calgary2021mayor99,Calgary,,AB,Stan The Man,Waciak,Independent,423.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+429,,Calgary2021mayor99,Calgary,,AB,Shaoli,Wang,Independent,1061.0,390383.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+430,,Calgary2021mayor99,Calgary,,AB,Grace,Yan,Independent,2746.0,390383.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+431,,Calgary2021councillor1,Calgary,,AB,Tom,Antonick,Independent,1590.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+432,,Calgary2021councillor1,Calgary,,AB,Chris,Blatch,Independent,3446.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+433,,Calgary2021councillor1,Calgary,,AB,John,Filp,Independent,352.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+434,,Calgary2021councillor1,Calgary,,AB,Jacob George,Mcgregor,Independent,1834.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+435,,Calgary2021councillor1,Calgary,,AB,Gaz,Qamar,Independent,1204.0,31377.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+436,,Calgary2021councillor1,Calgary,,AB,Shauna,Sears,Independent,1288.0,31377.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+437,,Calgary2021councillor1,Calgary,,AB,Sonya,Sharp,Independent,14038.0,31377.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+438,,Calgary2021councillor1,Calgary,,AB,Larry,Tweedale,Independent,2502.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+439,,Calgary2021councillor1,Calgary,,AB,Steve,Webb,Independent,5123.0,31377.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,1.0,Canadian Municipal Barometer
+440,,Calgary2021councillor2,Calgary,,AB,Francis,Aranha,Independent,1792.0,26233.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+441,,Calgary2021councillor2,Calgary,,AB,Joe,Magliocca,Independent,2701.0,26233.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+442,,Calgary2021councillor2,Calgary,,AB,Sareen,Singh,Independent,1133.0,26233.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+443,,Calgary2021councillor2,Calgary,,AB,Kim (dong),Tyers,Independent,6865.0,26233.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+444,,Calgary2021councillor2,Calgary,,AB,Theo,van Besouw,Independent,1126.0,26233.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+445,,Calgary2021councillor2,Calgary,,AB,Jennifer,Wyness,Independent,12616.0,26233.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,2.0,Canadian Municipal Barometer
+446,,Calgary2021councillor3,Calgary,,AB,Hamayun,Akbar,Independent,241.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+447,,Calgary2021councillor3,Calgary,,AB,Jun,Lin,Independent,3409.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+448,,Calgary2021councillor3,Calgary,,AB,Ian,Mcanerin,Independent,2590.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+449,,Calgary2021councillor3,Calgary,,AB,Jasmine,Mian,Independent,7262.0,23324.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+450,,Calgary2021councillor3,Calgary,,AB,Gurbir Singh,Nijjar,Independent,2118.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+451,,Calgary2021councillor3,Calgary,,AB,Nate,Pike,Independent,1701.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+452,,Calgary2021councillor3,Calgary,,AB,Kumar,Sharma,Independent,1033.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+453,,Calgary2021councillor3,Calgary,,AB,Brent,Trenholm,Independent,4970.0,23324.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,3.0,Canadian Municipal Barometer
+454,,Calgary2021councillor4,Calgary,,AB,Sean,Chu,Independent,12653.0,29623.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+455,,Calgary2021councillor4,Calgary,,AB,Daniel James (DJ),Kelly,Independent,12553.0,29623.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+456,,Calgary2021councillor4,Calgary,,AB,Angela,Mcintyre,Independent,3460.0,29623.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+457,,Calgary2021councillor4,Calgary,,AB,Shane,Roberts,Independent,957.0,29623.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,4.0,Canadian Municipal Barometer
+458,,Calgary2021councillor5,Calgary,,AB,Anand James,Chetty,Independent,450.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+459,,Calgary2021councillor5,Calgary,,AB,Raj,Dhaliwal,Independent,4654.0,16616.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+460,,Calgary2021councillor5,Calgary,,AB,Tudor,Dinca,Independent,927.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+461,,Calgary2021councillor5,Calgary,,AB,Tariq,Khan,Independent,1882.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+462,,Calgary2021councillor5,Calgary,,AB,Tahir,Merali,Independent,540.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+463,,Calgary2021councillor5,Calgary,,AB,Aryan,Sadat,Independent,3887.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+464,,Calgary2021councillor5,Calgary,,AB,Stan,Sandhu,Independent,4276.0,16616.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,5.0,Canadian Municipal Barometer
+465,,Calgary2021councillor6,Calgary,,AB,Lana,Bentley,Independent,9558.0,34380.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+466,,Calgary2021councillor6,Calgary,,AB,Duane,Hall,Independent,1484.0,34380.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+467,,Calgary2021councillor6,Calgary,,AB,Sanjeev,Kad,Independent,6950.0,34380.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+468,,Calgary2021councillor6,Calgary,,AB,Richard,Pootmans,Independent,16388.0,34380.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,6.0,Canadian Municipal Barometer
+469,,Calgary2021councillor7,Calgary,,AB,Greg,Amoruso,Independent,731.0,24791.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+470,,Calgary2021councillor7,Calgary,,AB,Daria,Bogdanov,Independent,285.0,24791.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+471,,Calgary2021councillor7,Calgary,,AB,Matt,Lalonde,Independent,1425.0,24791.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+472,,Calgary2021councillor7,Calgary,,AB,Heather,Mcrae,Independent,5278.0,24791.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+473,,Calgary2021councillor7,Calgary,,AB,Marilyn Janie,North Peigan,Independent,3784.0,24791.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+474,,Calgary2021councillor7,Calgary,,AB,Benjamin,Shepherd,Independent,581.0,24791.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+475,,Calgary2021councillor7,Calgary,,AB,Erin,Waite,Independent,5638.0,24791.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+476,,Calgary2021councillor7,Calgary,,AB,Derek,Williams,Independent,778.0,24791.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+477,,Calgary2021councillor7,Calgary,,AB,Terry,Wong,Independent,6291.0,24791.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,7.0,Canadian Municipal Barometer
+478,,Calgary2021councillor8,Calgary,,AB,Monique,Auffrey,Independent,2168.0,30386.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+479,,Calgary2021councillor8,Calgary,,AB,Paul,Bergmann,Independent,3435.0,30386.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+480,,Calgary2021councillor8,Calgary,,AB,Gary,Bobrovitz,Independent,6914.0,30386.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+481,,Calgary2021councillor8,Calgary,,AB,Yogi,Henderson,Independent,418.0,30386.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+482,,Calgary2021councillor8,Calgary,,AB,Madina,Kanayeva,Independent,253.0,30386.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+483,,Calgary2021councillor8,Calgary,,AB,Philip,Mitchell,Independent,1082.0,30386.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+484,,Calgary2021councillor8,Calgary,,AB,Courtney,Walcott,Independent,9559.0,30386.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+485,,Calgary2021councillor8,Calgary,,AB,Cornelia,Wiebe,Independent,3021.0,30386.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+486,,Calgary2021councillor8,Calgary,,AB,Natalie,Winkler,Independent,3536.0,30386.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,8.0,Canadian Municipal Barometer
+487,,Calgary2021councillor9,Calgary,,AB,Gian-Carlo,Carra,Independent,7056.0,19828.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+488,,Calgary2021councillor9,Calgary,,AB,Kimberly,Feser,Independent,1855.0,19828.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+489,,Calgary2021councillor9,Calgary,,AB,Abdirizak,Hadi,Independent,221.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+490,,Calgary2021councillor9,Calgary,,AB,Syed,Hasnain,Independent,119.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+491,,Calgary2021councillor9,Calgary,,AB,Daymond,Khan,Independent,878.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+492,,Calgary2021councillor9,Calgary,,AB,Lori,Masse,Independent,977.0,19828.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+493,,Calgary2021councillor9,Calgary,,AB,Omar Djalala,M'keyo,Independent,96.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+494,,Calgary2021councillor9,Calgary,,AB,Derek,Reimer,Independent,870.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+495,,Calgary2021councillor9,Calgary,,AB,John-William,Wade,Independent,861.0,19828.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+496,,Calgary2021councillor9,Calgary,,AB,Naomi,Withers,Independent,6895.0,19828.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,9.0,Canadian Municipal Barometer
+497,,Calgary2021councillor10,Calgary,,AB,Andre,Chabot,Independent,6414.0,19609.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+498,,Calgary2021councillor10,Calgary,,AB,Roshan,Chumber,Independent,398.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+499,,Calgary2021councillor10,Calgary,,AB,Tony,Dinh,Independent,3014.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+500,,Calgary2021councillor10,Calgary,,AB,Carla,Evers,Independent,630.0,19609.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+501,,Calgary2021councillor10,Calgary,,AB,Abed,Harb,Independent,5547.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+502,,Calgary2021councillor10,Calgary,,AB,Leslyn,Joseph,Independent,429.0,19609.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+503,,Calgary2021councillor10,Calgary,,AB,Mushtaq,Kayani,Independent,345.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+504,,Calgary2021councillor10,Calgary,,AB,Jasbir (Jesse),Minhas,Independent,618.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+505,,Calgary2021councillor10,Calgary,,AB,Issa,Mosa,Independent,393.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+506,,Calgary2021councillor10,Calgary,,AB,Esther,Sutherland,Independent,691.0,19609.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+507,,Calgary2021councillor10,Calgary,,AB,Bud,Thurlow,Independent,1130.0,19609.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,10.0,Canadian Municipal Barometer
+508,,Calgary2021councillor11,Calgary,,AB,Vance,Bertram,Independent,2658.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+509,,Calgary2021councillor11,Calgary,,AB,Kourtney,Branagan,Independent,10889.0,38390.0,0,1,0,F,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+510,,Calgary2021councillor11,Calgary,,AB,Devin,Defraine,Independent,2195.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+511,,Calgary2021councillor11,Calgary,,AB,Lauren,Herschel,Independent,4690.0,38390.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+512,,Calgary2021councillor11,Calgary,,AB,Mike,Jamieson,Independent,3786.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+513,,Calgary2021councillor11,Calgary,,AB,Dawid,Pawlowski,Independent,816.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+514,,Calgary2021councillor11,Calgary,,AB,Geoffrey,Vanderburg,Independent,3348.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+515,,Calgary2021councillor11,Calgary,,AB,Rob,Ward,Independent,10008.0,38390.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,11.0,Canadian Municipal Barometer
+516,,Calgary2021councillor12,Calgary,,AB,Craig,Chandler,Independent,5188.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+517,,Calgary2021councillor12,Calgary,,AB,John (Chubby Hubby),Duta,Independent,420.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+518,,Calgary2021councillor12,Calgary,,AB,Dirk,Fontaine,Independent,346.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+519,,Calgary2021councillor12,Calgary,,AB,Teresa,Hargreaves,Independent,2183.0,25249.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+520,,Calgary2021councillor12,Calgary,,AB,Mike,Lavalley,Independent,1734.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+521,,Calgary2021councillor12,Calgary,,AB,Steven,Phan,Independent,4998.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+522,,Calgary2021councillor12,Calgary,,AB,Evan,Spencer,Independent,9822.0,25249.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+523,,Calgary2021councillor12,Calgary,,AB,Michael,Streilein,Independent,558.0,25249.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,12.0,Canadian Municipal Barometer
+524,,Calgary2021councillor13,Calgary,,AB,Diane Marie,Colley-Urquhart,Independent,6371.0,27544.0,1,0,0,F,2021,2021-10-18T00:00:00Z,councillor,13.0,Canadian Municipal Barometer
+525,,Calgary2021councillor13,Calgary,,AB,Dan,Mclean,Independent,12802.0,27544.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,13.0,Canadian Municipal Barometer
+526,,Calgary2021councillor13,Calgary,,AB,Jay,Unsworth,Independent,8371.0,27544.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,13.0,Canadian Municipal Barometer
+527,,Calgary2021councillor14,Calgary,,AB,Stephen,Dabbagh,Independent,2277.0,31129.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,14.0,Canadian Municipal Barometer
+528,,Calgary2021councillor14,Calgary,,AB,Peter,Demong,Independent,20412.0,31129.0,1,1,0,M,2021,2021-10-18T00:00:00Z,councillor,14.0,Canadian Municipal Barometer
+529,,Calgary2021councillor14,Calgary,,AB,Andrea,Hinton,Independent,5342.0,31129.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,14.0,Canadian Municipal Barometer
+530,,Calgary2021councillor14,Calgary,,AB,Anton,Ovtchinnikov,Independent,3098.0,31129.0,0,0,0,M,2021,2021-10-18T00:00:00Z,councillor,14.0,Canadian Municipal Barometer
+531,,Olds2021mayor99,Olds,,AB,Judy,Dahl,Independent,1268.0,2314.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+532,,Olds2021mayor99,Olds,,AB,Michael Ethan,Muzychka,Independent,1046.0,2314.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+533,,Olds2021councillor99,Olds,,AB,Janelle,Adams,Independent,910.0,11086.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+534,,Olds2021councillor99,Olds,,AB,Wanda Laurel,Blatz,Independent,1289.0,11086.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+535,,Olds2021councillor99,Olds,,AB,James Andrew,Cummings,Independent,1302.0,11086.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+536,,Olds2021councillor99,Olds,,AB,Daniel Robert,Daley,Independent,1354.0,11086.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+537,,Olds2021councillor99,Olds,,AB,Mary Anne,Overwater,Independent,1089.0,11086.0,1,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+538,,Olds2021councillor99,Olds,,AB,Heather,Ryan,Independent,1287.0,11086.0,1,1,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+539,,Olds2021councillor99,Olds,,AB,Donald Harvey,Walsh,Independent,1280.0,11086.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+540,,Olds2021councillor99,Olds,,AB,Lucinda Lori,Watkins,Independent,1191.0,11086.0,0,0,0,F,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+541,,Olds2021councillor99,Olds,,AB,Darren James,Wilson,Independent,1384.0,11086.0,0,1,0,M,2021,2021-10-18T00:00:00Z,councillor,99.0,Canadian Municipal Barometer
+542,,SylvanLake2021mayor99,Sylvan Lake,,AB,Megan,Hanson,Independent,2880.0,3314.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+543,,SylvanLake2021mayor99,Sylvan Lake,,AB,Ted,Iverson,Independent,434.0,3314.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+544,,SylvanLake2021councillor99,Sylvan Lake,,AB,Steven,Bedford,Independent,605.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+545,,SylvanLake2021councillor99,Sylvan Lake,,AB,Kjeryn,Dakin,Independent,1846.0,16537.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+546,,SylvanLake2021councillor99,Sylvan Lake,,AB,Teej,Johannesson,Independent,869.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+547,,SylvanLake2021councillor99,Sylvan Lake,,AB,Carl,Kalveram,Independent,287.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+548,,SylvanLake2021councillor99,Sylvan Lake,,AB,Kendall,Kloss,Independent,1708.0,16537.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+549,,SylvanLake2021councillor99,Sylvan Lake,,AB,Laura,Lauder,Independent,778.0,16537.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+550,,SylvanLake2021councillor99,Sylvan Lake,,AB,Tim,Mearns,Independent,1570.0,16537.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+551,,SylvanLake2021councillor99,Sylvan Lake,,AB,Graham,Parsons,Independent,1659.0,16537.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+552,,SylvanLake2021councillor99,Sylvan Lake,,AB,Jas (David),Payne,Independent,1671.0,16537.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+553,,SylvanLake2021councillor99,Sylvan Lake,,AB,Teresa,Rilling,Independent,1631.0,16537.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+554,,SylvanLake2021councillor99,Sylvan Lake,,AB,Lani L.,Rouillard,Independent,756.0,16537.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+555,,SylvanLake2021councillor99,Sylvan Lake,,AB,Jordan,Sinclair,Independent,941.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+556,,SylvanLake2021councillor99,Sylvan Lake,,AB,Onsy,Tawadrous,Independent,1174.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+557,,SylvanLake2021councillor99,Sylvan Lake,,AB,Deborah,Wiens,Independent,865.0,16537.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+558,,SylvanLake2021councillor99,Sylvan Lake,,AB,Robbie,Yates,Independent,177.0,16537.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+559,,SpruceGrove2021mayor99,Spruce Grove,,AB,Jeff,Acker,Independent,4246.0,7838.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+560,,SpruceGrove2021mayor99,Spruce Grove,,AB,Len,Gierach,Independent,863.0,7838.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+561,,SpruceGrove2021mayor99,Spruce Grove,,AB,Chantal,McKenzie,Independent,2729.0,7838.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+562,,SpruceGrove2021councillor99,Spruce Grove,,AB,Danielle,Carter,Independent,4032.0,37499.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+563,,SpruceGrove2021councillor99,Spruce Grove,,AB,Francis B.,Crowther,Independent,612.0,37499.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+564,,SpruceGrove2021councillor99,Spruce Grove,,AB,Jan,Gillett,Independent,3560.0,37499.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+565,,SpruceGrove2021councillor99,Spruce Grove,,AB,Stuart,Houston,Independent,4757.0,37499.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+566,,SpruceGrove2021councillor99,Spruce Grove,,AB,Reid,MacDonald,Independent,3323.0,37499.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+567,,SpruceGrove2021councillor99,Spruce Grove,,AB,Jackie,McCuaig,Independent,2710.0,37499.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+568,,SpruceGrove2021councillor99,Spruce Grove,,AB,Christopher,McDonald,Independent,2225.0,37499.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+569,,SpruceGrove2021councillor99,Spruce Grove,,AB,Dave,Oldham,Independent,5344.0,37499.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+570,,SpruceGrove2021councillor99,Spruce Grove,,AB,Jason,Pickett,Independent,2005.0,37499.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+571,,SpruceGrove2021councillor99,Spruce Grove,,AB,Erin,Stevenson,Independent,3295.0,37499.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+572,,SpruceGrove2021councillor99,Spruce Grove,,AB,Michelle,Thiebaud-Gruhlke,Independent,2405.0,37499.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+573,,SpruceGrove2021councillor99,Spruce Grove,,AB,Jeff,Tokar,Independent,3231.0,37499.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+574,,Morinville2021mayor99,Morinville,,AB,Simon,Boersma,Independent,1681.0,2620.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+575,,Morinville2021mayor99,Morinville,,AB,Shane,Ladouceur,Independent,206.0,2620.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+576,,Morinville2021mayor99,Morinville,,AB,Barry,Turner,Independent,733.0,2620.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+577,,Morinville2021councillor99,Morinville,,AB,Jenn,Anheliger,Independent,1465.0,12708.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+578,,Morinville2021councillor99,Morinville,,AB,Rebecca E.M.,Balanko,Independent,1098.0,12708.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+579,,Morinville2021councillor99,Morinville,,AB,Nicole,Boutestein,Independent,995.0,12708.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+580,,Morinville2021councillor99,Morinville,,AB,Stephen,Dafoe,Independent,1491.0,12708.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+581,,Morinville2021councillor99,Morinville,,AB,Wayne,Gatza,Independent,820.0,12708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+582,,Morinville2021councillor99,Morinville,,AB,Sarah,Hall,Independent,1022.0,12708.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+583,,Morinville2021councillor99,Morinville,,AB,Alan John,Otway,Independent,608.0,12708.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+584,,Morinville2021councillor99,Morinville,,AB,Scott,Richardson,Independent,1392.0,12708.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+585,,Morinville2021councillor99,Morinville,,AB,Maurice,St. Denis,Independent,1568.0,12708.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+586,,Morinville2021councillor99,Morinville,,AB,Erin,Vollick,Independent,737.0,12708.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+587,,Morinville2021councillor99,Morinville,,AB,Ray,White,Independent,1512.0,12708.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+588,,Edmonton2021mayor99,Edmonton,,AB,Abdul Malik,Chukwudi,Independent,1368.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+589,,Edmonton2021mayor99,Edmonton,,AB,Rick,Comrie,Independent,1752.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+590,,Edmonton2021mayor99,Edmonton,,AB,Vanessa,Denman,Independent,907.0,234591.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+591,,Edmonton2021mayor99,Edmonton,,AB,Brian (Breezy),Gregg,Independent,1344.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+592,,Edmonton2021mayor99,Edmonton,,AB,Kim,Krushell,Independent,40513.0,234591.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+593,,Edmonton2021mayor99,Edmonton,,AB,Augustine,Marah,Independent,671.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+594,,Edmonton2021mayor99,Edmonton,,AB,Mike,Nickel,Independent,59309.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+595,,Edmonton2021mayor99,Edmonton,,AB,Michael,Oshry,Independent,14500.0,234591.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+596,,Edmonton2021mayor99,Edmonton,,AB,Amarjeet,Sohi,Independent,105683.0,234591.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+597,,Edmonton2021mayor99,Edmonton,,AB,Diana,Steele,Independent,1741.0,234591.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+598,,Edmonton2021mayor99,Edmonton,,AB,Cheryll,Watson,Independent,6803.0,234591.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+599,,Edmonton2021councillorAnirniq,Edmonton,,AB,Mark,Davies,Independent,1314.0,18080.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Anirniq,Canadian Municipal Barometer
+600,,Edmonton2021councillorAnirniq,Edmonton,,AB,Bev,Esslinger,Independent,4455.0,18080.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Anirniq,Canadian Municipal Barometer
+601,,Edmonton2021councillorAnirniq,Edmonton,,AB,Ali,Haymour,Independent,3616.0,18080.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Anirniq,Canadian Municipal Barometer
+602,,Edmonton2021councillorAnirniq,Edmonton,,AB,Erin,Rutherford,Independent,4728.0,18080.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,Anirniq,Canadian Municipal Barometer
+603,,Edmonton2021councillorAnirniq,Edmonton,,AB,Tyler,Zutz,Independent,3967.0,18080.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Anirniq,Canadian Municipal Barometer
+604,,Edmonton2021councillorDene,Edmonton,,AB,Andy Andrzej,Gudanowski,Independent,638.0,15375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Dene,Canadian Municipal Barometer
+605,,Edmonton2021councillorDene,Edmonton,,AB,Gerard,Mutabazi Amani,Independent,626.0,15375.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Dene,Canadian Municipal Barometer
+606,,Edmonton2021councillorDene,Edmonton,,AB,Lana,Palmer,Independent,2507.0,15375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Dene,Canadian Municipal Barometer
+607,,Edmonton2021councillorDene,Edmonton,,AB,Aaron,Paquette,Independent,8244.0,15375.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,Dene,Canadian Municipal Barometer
+608,,Edmonton2021councillorDene,Edmonton,,AB,Tricia,Velthuizen,Independent,3360.0,15375.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Dene,Canadian Municipal Barometer
+609,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Jason,Carter,Independent,787.0,18024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+610,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Rhiannon,Hoyle,Independent,5800.0,18024.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+611,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Scott,Johnston,Independent,2110.0,18024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+612,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Glynnis Andrea,Lieb,Independent,1765.0,18024.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+613,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Jon,Morgan,Independent,1729.0,18024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+614,,Edmonton2021councillorIpiihkoohkanipiaohtsi,Edmonton,,AB,Jennifer,Rice,Independent,5833.0,18024.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,Ipiihkoohkanipiaohtsi,Canadian Municipal Barometer
+615,,Edmonton2021councillorKarhiio,Edmonton,,AB,Muhammad Herman,Gill,Independent,318.0,18801.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+616,,Edmonton2021councillorKarhiio,Edmonton,,AB,Sana,Kakar,Independent,1341.0,18801.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+617,,Edmonton2021councillorKarhiio,Edmonton,,AB,Charan,Saggu,Independent,1669.0,18801.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+618,,Edmonton2021councillorKarhiio,Edmonton,,AB,Tom,Shaw,Independent,5691.0,18801.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+619,,Edmonton2021councillorKarhiio,Edmonton,,AB,Keren,Tang,Independent,7465.0,18801.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+620,,Edmonton2021councillorKarhiio,Edmonton,,AB,Shamair,Turner,Independent,2317.0,18801.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Karhiio,Canadian Municipal Barometer
+621,,Edmonton2021councillorMétis,Edmonton,,AB,Rob,Bernshaw,Independent,555.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+622,,Edmonton2021councillorMétis,Edmonton,,AB,Abdulhakim,Dalel,Independent,158.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+623,,Edmonton2021councillorMétis,Edmonton,,AB,Liz,John-West,Independent,1386.0,24266.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+624,,Edmonton2021councillorMétis,Edmonton,,AB,Brian,Kendrick,Independent,332.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+625,,Edmonton2021councillorMétis,Edmonton,,AB,Daniel John,Kornak,Independent,149.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+626,,Edmonton2021councillorMétis,Edmonton,,AB,James,Kosowan,Independent,1805.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+627,,Edmonton2021councillorMétis,Edmonton,,AB,Cori,Longo,Independent,4389.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+628,,Edmonton2021councillorMétis,Edmonton,,AB,Caroline,Matthews,Independent,5409.0,24266.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+629,,Edmonton2021councillorMétis,Edmonton,,AB,Salar,Melli,Independent,191.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+630,,Edmonton2021councillorMétis,Edmonton,,AB,Jim,Rickett,Independent,118.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+631,,Edmonton2021councillorMétis,Edmonton,,AB,Ashley,Salvador,Independent,8345.0,24266.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+632,,Edmonton2021councillorMétis,Edmonton,,AB,Steven,Townsend,Independent,1429.0,24266.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Métis,Canadian Municipal Barometer
+633,,Edmonton2021councillorNakota Isga,Edmonton,,AB,Andrew,Knack,Independent,12130.0,18338.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,Nakota Isga,Canadian Municipal Barometer
+634,,Edmonton2021councillorNakota Isga,Edmonton,,AB,Dave,Olivier,Independent,3294.0,18338.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Nakota Isga,Canadian Municipal Barometer
+635,,Edmonton2021councillorNakota Isga,Edmonton,,AB,Steve,Weston,Independent,2914.0,18338.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Nakota Isga,Canadian Municipal Barometer
+636,,Edmonton2021councillorO-day’min,Edmonton,,AB,Gino,Akbari,Independent,1219.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+637,,Edmonton2021councillorO-day’min,Edmonton,,AB,Gabrielle,Battiste,Independent,3000.0,15163.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+638,,Edmonton2021councillorO-day’min,Edmonton,,AB,Adrian,Bruff,Independent,2709.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+639,,Edmonton2021councillorO-day’min,Edmonton,,AB,Tony,Caterina,Independent,1615.0,15163.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+640,,Edmonton2021councillorO-day’min,Edmonton,,AB,Naima,Haile,Independent,243.0,15163.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+641,,Edmonton2021councillorO-day’min,Edmonton,,AB,Mohammed,Migdaddy,Independent,310.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+642,,Edmonton2021councillorO-day’min,Edmonton,,AB,Adil,Pirbhai,Independent,93.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+643,,Edmonton2021councillorO-day’min,Edmonton,,AB,Anne,Stevenson,Independent,4034.0,15163.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+644,,Edmonton2021councillorO-day’min,Edmonton,,AB,Ibrahim,Wado,Independent,128.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+645,,Edmonton2021councillorO-day’min,Edmonton,,AB,Joshua,Wolchansky,Independent,1812.0,15163.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,O-day’min,Canadian Municipal Barometer
+646,,Edmonton2021councillorpapastew,Edmonton,,AB,Haruun,Ali,Independent,1715.0,21255.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+647,,Edmonton2021councillorpapastew,Edmonton,,AB,James,Cameron,Independent,1388.0,21255.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+648,,Edmonton2021councillorpapastew,Edmonton,,AB,Susan,Field,Independent,4362.0,21255.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+649,,Edmonton2021councillorpapastew,Edmonton,,AB,Kirsten,Goa,Independent,4094.0,21255.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+650,,Edmonton2021councillorpapastew,Edmonton,,AB,Michael,Janz,Independent,8624.0,21255.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+651,,Edmonton2021councillorpapastew,Edmonton,,AB,Tarcy,Schindelka,Independent,630.0,21255.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+652,,Edmonton2021councillorpapastew,Edmonton,,AB,Byron,Vass,Independent,442.0,21255.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,papastew,Canadian Municipal Barometer
+653,,Edmonton2021councillorpihêsiwin,Edmonton,,AB,Tim,Cartmell,Independent,16273.0,20040.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,pihêsiwin,Canadian Municipal Barometer
+654,,Edmonton2021councillorpihêsiwin,Edmonton,,AB,Guiscela,Perez Arellano,Independent,3767.0,20040.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,pihêsiwin,Canadian Municipal Barometer
+655,,Edmonton2021councillorsipiwiyiniwak,Edmonton,,AB,Giselle,General,Independent,5184.0,23157.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,sipiwiyiniwak,Canadian Municipal Barometer
+656,,Edmonton2021councillorsipiwiyiniwak,Edmonton,,AB,Sarah,Hamilton,Independent,10242.0,23157.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,sipiwiyiniwak,Canadian Municipal Barometer
+657,,Edmonton2021councillorsipiwiyiniwak,Edmonton,,AB,Scott,Hayes,Independent,1054.0,23157.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,sipiwiyiniwak,Canadian Municipal Barometer
+658,,Edmonton2021councillorsipiwiyiniwak,Edmonton,,AB,Daniel,Heikkinen,Independent,2293.0,23157.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,sipiwiyiniwak,Canadian Municipal Barometer
+659,,Edmonton2021councillorsipiwiyiniwak,Edmonton,,AB,Derek,Hlady,Independent,4384.0,23157.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,sipiwiyiniwak,Canadian Municipal Barometer
+660,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Moe,Banga,Independent,4058.0,17024.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+661,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Jasbir Singh,Gill,Independent,802.0,17024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+662,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Harman Singh,Kandola,Independent,4626.0,17024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+663,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Mukesh,Makwana,Independent,252.0,17024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+664,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Sanjay,Malhotra,Independent,811.0,17024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+665,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Rashpal,Sehmby,Independent,608.0,17024.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+666,,Edmonton2021councillorSspomitapi,Edmonton,,AB,Jo-Anne,Wright,Independent,5867.0,17024.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,Sspomitapi,Canadian Municipal Barometer
+667,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Ahmed 'Knowmadic',Ali,Independent,2691.0,17661.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+668,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Cody,Bondarchuk,Independent,2377.0,17661.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+669,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Jon,Dziadyk,Independent,5394.0,17661.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+670,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Iannie,Gerona,Independent,150.0,17661.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+671,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Zain,Hafiz,Independent,180.0,17661.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+672,,Edmonton2021councillortastawiyiniwak,Edmonton,,AB,Karen,Principe,Independent,6869.0,17661.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,tastawiyiniwak,Canadian Municipal Barometer
+673,,FortSaskatchewan2021mayor99,Fort Saskatchewan,,AB,Gale,Katchur,Independent,3329.0,6369.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+674,,FortSaskatchewan2021mayor99,Fort Saskatchewan,,AB,Deanna,Lennox,Independent,3040.0,6369.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+675,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Birgit,Blizzard,Independent,2822.0,31165.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+676,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Brian,Kelly,Independent,3269.0,31165.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+677,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Gordon,Harris,Independent,3237.0,31165.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+678,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Lisa,Makin,Independent,3779.0,31165.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+679,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Jibs,Abitoye,Independent,3483.0,31165.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+680,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Patrick,Noyen,Independent,3143.0,31165.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+681,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Mike,Ferris,Independent,2795.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+682,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Frank,Garritsen,Independent,2322.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+683,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Dennis,Thompson,Independent,1744.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+684,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Greg,Richardson,Independent,1316.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+685,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Stuart,McGowan,Independent,1269.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+686,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Michelle,Kyle,Independent,1173.0,31165.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+687,,FortSaskatchewan2021councillor99,Fort Saskatchewan,,AB,Charles,Simpson,Independent,813.0,31165.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+688,,CountyofGrandePrairieNo.12021councillor1,County of Grande Prairie No. 1,,AB,Amanda,Frayn,Independent,,,0,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+689,,CountyofGrandePrairieNo.12021councillor2,County of Grande Prairie No. 1,,AB,Kurt,Balderston,Independent,497.0,1022.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+690,,CountyofGrandePrairieNo.12021councillor2,County of Grande Prairie No. 1,,AB,Darcy,Karbashewski,Independent,232.0,1022.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+691,,CountyofGrandePrairieNo.12021councillor2,County of Grande Prairie No. 1,,AB,Talbot,Rycroft,Independent,160.0,1022.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+692,,CountyofGrandePrairieNo.12021councillor2,County of Grande Prairie No. 1,,AB,Thomas,Tharp,Independent,133.0,1022.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+693,,CountyofGrandePrairieNo.12021councillor3,County of Grande Prairie No. 1,,AB,Leanne,Beaupre,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+694,,CountyofGrandePrairieNo.12021councillor4,County of Grande Prairie No. 1,,AB,Maurissa,Hietland,Independent,266.0,729.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+695,,CountyofGrandePrairieNo.12021councillor4,County of Grande Prairie No. 1,,AB,Calvin,Maple,Independent,128.0,729.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+696,,CountyofGrandePrairieNo.12021councillor4,County of Grande Prairie No. 1,,AB,Steve,Zimmerman,Independent,335.0,729.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+697,,CountyofGrandePrairieNo.12021councillor5,County of Grande Prairie No. 1,,AB,Kevin,Gingles,Independent,125.0,502.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+698,,CountyofGrandePrairieNo.12021councillor5,County of Grande Prairie No. 1,,AB,Robert,Hill,Independent,152.0,502.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+699,,CountyofGrandePrairieNo.12021councillor5,County of Grande Prairie No. 1,,AB,Robert,Marshall,Independent,225.0,502.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+700,,CountyofGrandePrairieNo.12021councillor6,County of Grande Prairie No. 1,,AB,William Peter,Harris,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+701,,CountyofGrandePrairieNo.12021councillor7,County of Grande Prairie No. 1,,AB,Brian,Peterson,Independent,,,0,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+702,,CountyofGrandePrairieNo.12021councillor8,County of Grande Prairie No. 1,,AB,Karen,Rosvold,Independent,350.0,470.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+703,,CountyofGrandePrairieNo.12021councillor8,County of Grande Prairie No. 1,,AB,Cheryl,Van Eerden,Independent,120.0,470.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+704,,CountyofGrandePrairieNo.12021councillor9,County of Grande Prairie No. 1,,AB,Pam,Badger,Independent,111.0,624.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,9.0,Canadian Municipal Barometer
+705,,CountyofGrandePrairieNo.12021councillor9,County of Grande Prairie No. 1,,AB,Dwayne,Badry,Independent,71.0,624.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,9.0,Canadian Municipal Barometer
+706,,CountyofGrandePrairieNo.12021councillor9,County of Grande Prairie No. 1,,AB,Robert,Chrenek,Independent,264.0,624.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,9.0,Canadian Municipal Barometer
+707,,CountyofGrandePrairieNo.12021councillor9,County of Grande Prairie No. 1,,AB,Sheryle,Runhart,Independent,178.0,624.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,9.0,Canadian Municipal Barometer
+708,,MackenzieCounty2021councillor1,Mackenzie County,,AB,Joshua,Knelsen,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+709,,MackenzieCounty2021councillor10,Mackenzie County,,AB,Lisa,Wardley,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,10.0,Canadian Municipal Barometer
+710,,MackenzieCounty2021councillor2,Mackenzie County,,AB,Darrell,Derksen,Independent,,,0,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+711,,MackenzieCounty2021councillor3,Mackenzie County,,AB,Peter,Braun,Independent,351.0,426.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+712,,MackenzieCounty2021councillor3,Mackenzie County,,AB,Ron,Dyck,Independent,75.0,426.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+713,,MackenzieCounty2021councillor4,Mackenzie County,,AB,David,Driedger,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+714,,MackenzieCounty2021councillor5,Mackenzie County,,AB,Elmer,Derksen,Independent,59.0,218.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+715,,MackenzieCounty2021councillor5,Mackenzie County,,AB,Ernest,Peters,Independent,159.0,218.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+716,,MackenzieCounty2021councillor6,Mackenzie County,,AB,Henry,Goertzen,Independent,63.0,141.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+717,,MackenzieCounty2021councillor6,Mackenzie County,,AB,Garrell,Smith,Independent,78.0,141.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+718,,MackenzieCounty2021councillor7,Mackenzie County,,AB,Cameron,Cardinal,Independent,133.0,152.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+719,,MackenzieCounty2021councillor7,Mackenzie County,,AB,Lucille,Labrecque,Independent,19.0,152.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+720,,MackenzieCounty2021councillor8,Mackenzie County,,AB,Mike,Kozij,Independent,40.0,108.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+721,,MackenzieCounty2021councillor8,Mackenzie County,,AB,Walter,Sarapuk,Independent,68.0,108.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+722,,MackenzieCounty2021councillor8,Mackenzie County,,AB,Jacquie,Bateman,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,9.0,Canadian Municipal Barometer
+723,,WoodBuffalo2021mayor99,Wood Buffalo,,AB,Mike,Allen,Independent,2879.0,12688.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+724,,WoodBuffalo2021mayor99,Wood Buffalo,,AB,Sandy,Bowman,Independent,5690.0,12688.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+725,,WoodBuffalo2021mayor99,Wood Buffalo,,AB,Verna,Murphy,Independent,4119.0,12688.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+726,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Ken,Ball,Independent,3636.0,55722.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+727,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Funky,Banjoko,Independent,4788.0,55722.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+728,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Dale Leo,Bendfeld,Independent,1098.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+729,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Lance,Bussieres,Independent,4361.0,55722.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+730,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,M. Shafiq,Dogar,Independent,4379.0,55722.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+731,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Allan,Grandison,Independent,3040.0,55722.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+732,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Garth,Hewitt,Independent,1582.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+733,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Jonathan Gregory,Higdon,Independent,1232.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+734,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Jason,King,Independent,3036.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+735,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Michelle,Landsiedel,Independent,2491.0,55722.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+736,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Keith,McGrath,Independent,3999.0,55722.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+737,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Alex,McKenzie,Independent,2168.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+738,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Joseph,Mugodo,Independent,1526.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+739,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Gareth,Norris,Independent,1663.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+740,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Matty,Parlee,Independent,838.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+741,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Jeffrey,Peddle,Independent,2948.0,55722.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+742,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Mike,Powlesland,Independent,763.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+743,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Zaid,Sulaiman,Independent,1339.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+744,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Tal,Tupper,Independent,761.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+745,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Ij,Uche-Ezeala,Independent,2625.0,55722.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+746,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Jennifer (Vandervoort),Vardy,Independent,2110.0,55722.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+747,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Rene,Wells,Independent,2769.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+748,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Charles,Wilson,Independent,1394.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+749,,WoodBuffalo2021councillor1,Wood Buffalo,,AB,Scott,Wilson,Independent,1176.0,55722.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+750,,WoodBuffalo2021councillor2,Wood Buffalo,,AB,Kendrick,Cardinal,Independent,243.0,657.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+751,,WoodBuffalo2021councillor2,Wood Buffalo,,AB,Claris,Voyageur,Independent,206.0,657.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+752,,WoodBuffalo2021councillor2,Wood Buffalo,,AB,Loretta Eva,Waquan,Independent,208.0,657.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+753,,WoodBuffalo2021councillor3,Wood Buffalo,,AB,Sheila,Lalonde,Independent,131.0,364.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+754,,WoodBuffalo2021councillor3,Wood Buffalo,,AB,Stu,Wigle,Independent,233.0,364.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+755,,WoodBuffalo2021councillor4,Wood Buffalo,,AB,Jane,Stroud,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+756,,Hinton2021mayor99,Hinton,,AB,Marcel,Michaels,Independent,1797.0,2723.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+757,,Hinton2021mayor99,Hinton,,AB,Dewly,Nelson,Independent,926.0,2723.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+758,,Hinton2021councillor99,Hinton,,AB,Trevor L.,Haas,Independent,1402.0,11614.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+759,,Hinton2021councillor99,Hinton,,AB,Ryan,Maguhn,Independent,1321.0,11614.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+760,,Hinton2021councillor99,Hinton,,AB,Stuart,Taylor,Independent,1502.0,11614.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+761,,Hinton2021councillor99,Hinton,,AB,Albert,Ostashek,Independent,1264.0,11614.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+762,,Hinton2021councillor99,Hinton,,AB,JoAnn (Jo),Race,Independent,1162.0,11614.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+763,,Hinton2021councillor99,Hinton,,AB,Brian,LaBerge,Independent,1571.0,11614.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+764,,Hinton2021councillor99,Hinton,,AB,Dena,Bennett Greanya,Independent,888.0,11614.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+765,,Hinton2021councillor99,Hinton,,AB,Eric B.,Rosendahl,Independent,790.0,11614.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+766,,Hinton2021councillor99,Hinton,,AB,Tim,Shain,Independent,860.0,11614.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+767,,Hinton2021councillor99,Hinton,,AB,Rachel,Arseneault,Independent,854.0,11614.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+768,,WhiteCourt2021mayor99,White Court,,AB,Darlene,Chartrand,Independent,582.0,2247.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+769,,WhiteCourt2021mayor99,White Court,,AB,Ray,Hilts,Independent,817.0,2247.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+770,,WhiteCourt2021mayor99,White Court,,AB,Tom,Pickard,Independent,848.0,2247.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+771,,WhiteCourt2021councillor99,White Court,,AB,Chris,Ashcroft,Independent,820.0,10336.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+772,,WhiteCourt2021councillor99,White Court,,AB,Tara,Baker,Independent,1327.0,10336.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+773,,WhiteCourt2021councillor99,White Court,,AB,Paul,Chauvet,Independent,1004.0,10336.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+774,,WhiteCourt2021councillor99,White Court,,AB,Adam,Connell,Independent,865.0,10336.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+775,,WhiteCourt2021councillor99,White Court,,AB,Raelene,Day,Independent,775.0,10336.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+776,,WhiteCourt2021councillor99,White Court,,AB,Braden,Lanctot,Independent,910.0,10336.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+777,,WhiteCourt2021councillor99,White Court,,AB,Serena,Lapointe,Independent,1038.0,10336.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+778,,WhiteCourt2021councillor99,White Court,,AB,Bill,McAree,Independent,1399.0,10336.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+779,,WhiteCourt2021councillor99,White Court,,AB,Ashley,Rose,Independent,810.0,10336.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+780,,WhiteCourt2021councillor99,White Court,,AB,Derek,Schlosser,Independent,1388.0,10336.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+781,,YellowheadCounty2021mayor99,Yellowhead County,,AB,Ken,Bitz,Independent,57.0,3077.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+782,,YellowheadCounty2021mayor99,Yellowhead County,,AB,Sandra,Cherniawsky,Independent,591.0,3077.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+783,,YellowheadCounty2021mayor99,Yellowhead County,,AB,Sonja,Christopher,Independent,221.0,3077.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+784,,YellowheadCounty2021mayor99,Yellowhead County,,AB,Doug,Elzinga,Independent,954.0,3077.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+785,,YellowheadCounty2021mayor99,Yellowhead County,,AB,Wade,Williams,Independent,1254.0,3077.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+786,,YellowheadCounty2021councillor1,Yellowhead County,,AB,Patrick John,Soroka,Independent,178.0,423.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+787,,YellowheadCounty2021councillor1,Yellowhead County,,AB,Celine Lise,Stevenson,Independent,95.0,423.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+788,,YellowheadCounty2021councillor1,Yellowhead County,,AB,Dale Robert,Verbeek,Independent,150.0,423.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+789,,YellowheadCounty2021councillor2,Yellowhead County,,AB,Anthony J,Giezen,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+790,,YellowheadCounty2021councillor3,Yellowhead County,,AB,Penny,Lowe,Independent,178.0,329.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+791,,YellowheadCounty2021councillor3,Yellowhead County,,AB,Ronald,Rauhut,Independent,151.0,329.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+792,,YellowheadCounty2021councillor4,Yellowhead County,,AB,Rebecca,Horne,Independent,93.0,351.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+793,,YellowheadCounty2021councillor4,Yellowhead County,,AB,David Raymond,Russell,Independent,258.0,351.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+794,,YellowheadCounty2021councillor5,Yellowhead County,,AB,Shawn Brian,Berry,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+795,,YellowheadCounty2021councillor6,Yellowhead County,,AB,Brigitte,Lemieux,Independent,301.0,645.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+796,,YellowheadCounty2021councillor6,Yellowhead County,,AB,Wade Bradford,Magneson,Independent,80.0,645.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+797,,YellowheadCounty2021councillor6,Yellowhead County,,AB,Mark Edward,Mitchell,Independent,42.0,645.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+798,,YellowheadCounty2021councillor6,Yellowhead County,,AB,Noel Fredrick,Perrin,Independent,166.0,645.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+799,,YellowheadCounty2021councillor6,Yellowhead County,,AB,Christal Dawn,Yacke,Independent,56.0,645.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+800,,YellowheadCounty2021councillor7,Yellowhead County,,AB,Dawn Marie,Mitchell,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+801,,YellowheadCounty2021councillor8,Yellowhead County,,AB,Ken,Groat,Independent,255.0,413.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+802,,YellowheadCounty2021councillor8,Yellowhead County,,AB,Lavone,Olson,Independent,158.0,413.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+803,,LacSte.AnneCounty2021councillor1,Lac Ste. Anne County,,AB,David,Anstead,Independent,109.0,369.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+804,,LacSte.AnneCounty2021councillor1,Lac Ste. Anne County,,AB,Mark,Dickson,Independent,64.0,369.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+805,,LacSte.AnneCounty2021councillor1,Lac Ste. Anne County,,AB,Lorne,Olsvik,Independent,196.0,369.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+806,,LacSte.AnneCounty2021councillor2,Lac Ste. Anne County,,AB,Mel,Fundytus,Independent,163.0,374.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+807,,LacSte.AnneCounty2021councillor2,Lac Ste. Anne County,,AB,Nick,Gelych,Independent,211.0,374.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+808,,LacSte.AnneCounty2021councillor3,Lac Ste. Anne County,,AB,Deborah,Perrin,Independent,190.0,412.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+809,,LacSte.AnneCounty2021councillor3,Lac Ste. Anne County,,AB,George,Vaughan,Independent,222.0,412.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+810,,LacSte.AnneCounty2021councillor4,Lac Ste. Anne County,,AB,Steve,Hoyda,Independent,316.0,463.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+811,,LacSte.AnneCounty2021councillor4,Lac Ste. Anne County,,AB,James,Pokorski,Independent,147.0,463.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+812,,LacSte.AnneCounty2021councillor5,Lac Ste. Anne County,,AB,Joe,Blakeman,Independent,233.0,438.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+813,,LacSte.AnneCounty2021councillor5,Lac Ste. Anne County,,AB,Bo,Knysh,Independent,205.0,438.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+814,,LacSte.AnneCounty2021councillor6,Lac Ste. Anne County,,AB,Ross,Bohnet,Independent,183.0,545.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+815,,LacSte.AnneCounty2021councillor6,Lac Ste. Anne County,,AB,Michelle,Claybrook,Independent,108.0,545.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+816,,LacSte.AnneCounty2021councillor6,Lac Ste. Anne County,,AB,Harvey,Hagman W.,Independent,182.0,545.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+817,,LacSte.AnneCounty2021councillor6,Lac Ste. Anne County,,AB,Terry,Nelson,Independent,72.0,545.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+818,,LacSte.AnneCounty2021councillor7,Lac Ste. Anne County,,AB,Lloyd R.,Giebelhaus,Independent,263.0,516.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+819,,LacSte.AnneCounty2021councillor7,Lac Ste. Anne County,,AB,Wayne,King,Independent,187.0,516.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+820,,LacSte.AnneCounty2021councillor7,Lac Ste. Anne County,,AB,Gordon W.,McMillan,Independent,66.0,516.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+821,,Wetaskiwin2021mayor99,Wetaskiwin,,AB,Tyler,Gandam,Independent,1876.0,3454.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+822,,Wetaskiwin2021mayor99,Wetaskiwin,,AB,Joe,Branco,Independent,1331.0,3454.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+823,,Wetaskiwin2021mayor99,Wetaskiwin,,AB,Jenn,Moriartey,Independent,194.0,3454.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+824,,Wetaskiwin2021mayor99,Wetaskiwin,,AB,Craig,Haavaldsen,Independent,53.0,3454.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+825,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Karen,Aberle,Independent,1384.0,16019.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+826,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Dean,Billingsley,Independent,1597.0,16019.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+827,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Gabrielle,Blatz,Independent,1783.0,16019.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+828,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Bill,Elliot,Independent,1716.0,16019.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+829,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Kevin,Lonsdale,Independent,1362.0,16019.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+830,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Wayne,Neilson,Independent,1895.0,16019.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+831,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Amanda,Rule,Independent,1171.0,16019.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+832,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Colleen,Thiessen,Independent,1128.0,16019.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+833,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Steven,Venardos,Independent,963.0,16019.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+834,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Jessi,Hanks,Independent,857.0,16019.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+835,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Myrna (MJ),Fontaine,Independent,578.0,16019.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+836,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Roderick (Rod),Mackenzie,Independent,450.0,16019.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+837,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Mike,Cifarelli,Independent,350.0,16019.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+838,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Ronald,Mildenberger,Independent,337.0,16019.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+839,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,James,Commet,Independent,263.0,16019.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+840,,Wetaskiwin2021councillor99,Wetaskiwin,,AB,Magpie,Ilkiw,Independent,185.0,16019.0,0,0,0,X,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+841,,RedDeerCounty2021mayor99,Red Deer County,,AB,Stanley,Bell,Independent,1751.0,5977.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+842,,RedDeerCounty2021mayor99,Red Deer County,,AB,Tyler,Northcott,Independent,1603.0,5977.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+843,,RedDeerCounty2021mayor99,Red Deer County,,AB,James,Wood,Independent,2623.0,5977.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+844,,RedDeerCounty2021councillor1,Red Deer County,,AB,Philip,Massier,Independent,551.0,1003.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+845,,RedDeerCounty2021councillor1,Red Deer County,,AB,Chad,Young,Independent,452.0,1003.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+846,,RedDeerCounty2021councillor2,Red Deer County,,AB,Jean,Bota,Independent,490.0,982.0,1,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+847,,RedDeerCounty2021councillor2,Red Deer County,,AB,Lonny,Kennett,Independent,492.0,982.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+848,,RedDeerCounty2021councillor3,Red Deer County,,AB,Dana,Depalme,Independent,500.0,1061.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+849,,RedDeerCounty2021councillor3,Red Deer County,,AB,Clayton,Marshall,Independent,184.0,1061.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+850,,RedDeerCounty2021councillor3,Red Deer County,,AB,Adrian,Pidhirney,Independent,377.0,1061.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+851,,RedDeerCounty2021councillor4,Red Deer County,,AB,Connie,Huelsman,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+852,,RedDeerCounty2021councillor5,Red Deer County,,AB,Richard,Lorenz,Independent,566.0,1156.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+853,,RedDeerCounty2021councillor5,Red Deer County,,AB,Brent,Ramsay,Independent,590.0,1156.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+854,,RedDeerCounty2021councillor6,Red Deer County,,AB,Garett,Cupples,Independent,408.0,890.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+855,,RedDeerCounty2021councillor6,Red Deer County,,AB,Christine,Moore,Independent,482.0,890.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+856,,MountainViewCounty2021councillor1,Mountain View County,,AB,Dwayne,Fulton,Independent,290.0,597.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+857,,MountainViewCounty2021councillor1,Mountain View County,,AB,Edward James,Shaw,Independent,289.0,579.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+858,,MountainViewCounty2021councillor2,Mountain View County,,AB,Greg,Harris,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+859,,MountainViewCounty2021councillor3,Mountain View County,,AB,Marlene,Aubrey,Independent,77.0,508.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+860,,MountainViewCounty2021councillor3,Mountain View County,,AB,Allan,Hickok,Independent,119.0,508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+861,,MountainViewCounty2021councillor3,Mountain View County,,AB,Bryce James,Mickleborough,Independent,47.0,508.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+862,,MountainViewCounty2021councillor3,Mountain View County,,AB,Alan,Miller,Independent,265.0,508.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+863,,MountainViewCounty2021councillor4,Mountain View County,,AB,Jim,Bowhay,Independent,290.0,728.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+864,,MountainViewCounty2021councillor4,Mountain View County,,AB,Gord,Krebs,Independent,396.0,728.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+865,,MountainViewCounty2021councillor4,Mountain View County,,AB,Sean,LaBrie,Independent,36.0,728.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+866,,MountainViewCounty2021councillor4,Mountain View County,,AB,Eric,Rose,Independent,6.0,728.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+867,,MountainViewCounty2021councillor5,Mountain View County,,AB,Angela,Aalbers,Independent,311.0,454.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+868,,MountainViewCounty2021councillor5,Mountain View County,,AB,Christina,McCharles,Independent,143.0,454.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+869,,MountainViewCounty2021councillor6,Mountain View County,,AB,Karen,Bewick,Independent,236.0,621.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+870,,MountainViewCounty2021councillor6,Mountain View County,,AB,Peggy (Margaret),Johnson,Independent,303.0,621.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+871,,MountainViewCounty2021councillor6,Mountain View County,,AB,Patrick A.P.,Radford,Independent,82.0,621.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+872,,MountainViewCounty2021councillor7,Mountain View County,,AB,David John,Doyle,Independent,175.0,504.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+873,,MountainViewCounty2021councillor7,Mountain View County,,AB,Alex,Hogarth,Independent,47.0,504.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+874,,MountainViewCounty2021councillor7,Mountain View County,,AB,Jennifer,Lutz,Independent,282.0,504.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+875,,LacombeCounty2021councillor1,Lacombe County,,AB,John,Ireland,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+876,,LacombeCounty2021councillor2,Lacombe County,,AB,Brenda,Knight,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+877,,LacombeCounty2021councillor3,Lacombe County,,AB,Barbara,Shepherd,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+878,,LacombeCounty2021councillor4,Lacombe County,,AB,Ivor,Bernatsky,Independent,211.0,435.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+879,,LacombeCounty2021councillor4,Lacombe County,,AB,Dwayne,West,Independent,224.0,435.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+880,,LacombeCounty2021councillor5,Lacombe County,,AB,Denise,Sumner,Independent,78.0,520.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+881,,LacombeCounty2021councillor5,Lacombe County,,AB,Kenneth,Weenink,Independent,295.0,520.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+882,,LacombeCounty2021councillor5,Lacombe County,,AB,Kenneth,White,Independent,147.0,520.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+883,,LacombeCounty2021councillor6,Lacombe County,,AB,Gunnar,Albrecht,Independent,88.0,438.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+884,,LacombeCounty2021councillor6,Lacombe County,,AB,Philip,Randall,Independent,21.0,438.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+885,,LacombeCounty2021councillor6,Lacombe County,,AB,Allan,Wilson,Independent,329.0,438.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+886,,LacombeCounty2021councillor7,Lacombe County,,AB,Dana,Kreil,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+887,,Blackfalds2021mayor99,Blackfalds,,AB,Jamie,Hoover,Independent,522.0,1405.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+888,,Blackfalds2021mayor99,Blackfalds,,AB,Jeff,Krehmer,Independent,376.0,1405.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+889,,Blackfalds2021mayor99,Blackfalds,,AB,Wayne,Tutty,Independent,507.0,1405.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+890,,Blackfalds2021councillor99,Blackfalds,,AB,Marina,Appel,Independent,673.0,6446.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+891,,Blackfalds2021councillor99,Blackfalds,,AB,Edna,Coulter,Independent,508.0,6446.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+892,,Blackfalds2021councillor99,Blackfalds,,AB,Brenda,Dennis,Independent,792.0,6446.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+893,,Blackfalds2021councillor99,Blackfalds,,AB,Ray,Olfert,Independent,613.0,6446.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+894,,Blackfalds2021councillor99,Blackfalds,,AB,Jim,Sands,Independent,690.0,6446.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+895,,Blackfalds2021councillor99,Blackfalds,,AB,Rebecca,Stendie,Independent,809.0,6446.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+896,,Blackfalds2021councillor99,Blackfalds,,AB,Laura,Svab,Independent,1017.0,6446.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+897,,Blackfalds2021councillor99,Blackfalds,,AB,William,Taylor,Independent,660.0,6446.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+898,,Blackfalds2021councillor99,Blackfalds,,AB,Amanda,Valin,Independent,684.0,6446.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+899,,PonokaCounty2021councillor1,Ponoka County,,AB,Bryce,Liddle,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+900,,PonokaCounty2021councillor2,Ponoka County,,AB,Tammy,Henkelman,Independent,91.0,548.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+901,,PonokaCounty2021councillor2,Ponoka County,,AB,Lorrie,Jess,Independent,190.0,548.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+902,,PonokaCounty2021councillor2,Ponoka County,,AB,Mark,Matejka,Independent,267.0,548.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+903,,PonokaCounty2021councillor3,Ponoka County,,AB,Justin,Krakowka,Independent,242.0,678.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+904,,PonokaCounty2021councillor3,Ponoka County,,AB,Doug,Weir,Independent,436.0,678.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+905,,PonokaCounty2021councillor4,Ponoka County,,AB,Paul,McLauchlin,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+906,,PonokaCounty2021councillor5,Ponoka County,,AB,Bradley,Bergquist,Independent,44.0,405.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+907,,PonokaCounty2021councillor5,Ponoka County,,AB,Nancy,Hartford,Independent,239.0,405.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+908,,PonokaCounty2021councillor5,Ponoka County,,AB,Roy,Keessar,Independent,122.0,405.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+909,,ClearwaterCounty2021councillor1,Clearwater County,,AB,Gennifer,Mehlhaff,Independent,243.0,433.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+910,,ClearwaterCounty2021councillor1,Clearwater County,,AB,Nichole,Stewart,Independent,190.0,433.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+911,,ClearwaterCounty2021councillor2,Clearwater County,,AB,Sydney,Graham,Independent,221.0,564.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+912,,ClearwaterCounty2021councillor2,Clearwater County,,AB,Cammie,Laird,Independent,182.0,564.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+913,,ClearwaterCounty2021councillor2,Clearwater County,,AB,Dick,Wymenga,Independent,161.0,564.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+914,,ClearwaterCounty2021councillor3,Clearwater County,,AB,Daryl,Lougheed,Independent,250.0,464.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+915,,ClearwaterCounty2021councillor3,Clearwater County,,AB,Curt,Maki,Independent,214.0,464.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+916,,ClearwaterCounty2021councillor4,Clearwater County,,AB,Naomi,McNair,Independent,49.0,628.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+917,,ClearwaterCounty2021councillor4,Clearwater County,,AB,Jordon,Northcott,Independent,238.0,628.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+918,,ClearwaterCounty2021councillor4,Clearwater County,,AB,Tim,Plante,Independent,178.0,628.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+919,,ClearwaterCounty2021councillor4,Clearwater County,,AB,John,Vandermeer,Independent,163.0,628.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+920,,ClearwaterCounty2021councillor5,Clearwater County,,AB,Bob,Bryant,Independent,176.0,586.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+921,,ClearwaterCounty2021councillor5,Clearwater County,,AB,Nick,Frank,Independent,154.0,586.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+922,,ClearwaterCounty2021councillor5,Clearwater County,,AB,Neil,Ratcliffe,Independent,256.0,586.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+923,,ClearwaterCounty2021councillor6,Clearwater County,,AB,Bryan,Cermak,Independent,306.0,482.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+924,,ClearwaterCounty2021councillor6,Clearwater County,,AB,Tim,Hoven,Independent,145.0,482.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+925,,ClearwaterCounty2021councillor6,Clearwater County,,AB,Shane,Nafziger,Independent,31.0,482.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+926,,ClearwaterCounty2021councillor7,Clearwater County,,AB,JoLynn,Bradshaw,Independent,199.0,437.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+927,,ClearwaterCounty2021councillor7,Clearwater County,,AB,Michelle,Swanson,Independent,238.0,437.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+928,,WetaskiwinCountyNo.102021councillor1,Wetaskiwin County No. 10,,AB,Bill,Krahn,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+929,,WetaskiwinCountyNo.102021councillor2,Wetaskiwin County No. 10,,AB,Lynn Marie,Carwell,Independent,277.0,527.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+930,,WetaskiwinCountyNo.102021councillor2,Wetaskiwin County No. 10,,AB,Terry,Van de Kraats,Independent,250.0,527.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+931,,WetaskiwinCountyNo.102021councillor3,Wetaskiwin County No. 10,,AB,Dale H.,Woitt,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+932,,WetaskiwinCountyNo.102021councillor4,Wetaskiwin County No. 10,,AB,Josh,Bishop,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+933,,WetaskiwinCountyNo.102021councillor5,Wetaskiwin County No. 10,,AB,Ken,Adair,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+934,,WetaskiwinCountyNo.102021councillor6,Wetaskiwin County No. 10,,AB,Ron,Baumann,Independent,182.0,465.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+935,,WetaskiwinCountyNo.102021councillor6,Wetaskiwin County No. 10,,AB,Rodney,Heeney,Independent,35.0,465.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+936,,WetaskiwinCountyNo.102021councillor6,Wetaskiwin County No. 10,,AB,Kathy,Rooyakkers,Independent,248.0,465.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+937,,WetaskiwinCountyNo.102021councillor7,Wetaskiwin County No. 10,,AB,Chad,Baumann,Independent,253.0,510.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+938,,WetaskiwinCountyNo.102021councillor7,Wetaskiwin County No. 10,,AB,Lyle,Seely,Independent,257.0,510.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+939,,LeducCounty2021councillor1,Leduc County,,AB,Rick,Smith,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+940,,LeducCounty2021councillor2,Leduc County,,AB,Garry,Ingbrigtson,Independent,186.0,664.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+941,,LeducCounty2021councillor2,Leduc County,,AB,Kelly-Lynn,Lewis,Independent,478.0,664.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+942,,LeducCounty2021councillor3,Leduc County,,AB,Kelly,Vandenberghe,Independent,549.0,941.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+943,,LeducCounty2021councillor3,Leduc County,,AB,Dalpreet,Virdi,Independent,392.0,941.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+944,,LeducCounty2021councillor4,Leduc County,,AB,Melvin,Kapicki,Independent,202.0,409.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+945,,LeducCounty2021councillor4,Leduc County,,AB,Larry,Wanchuk,Independent,207.0,409.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+946,,LeducCounty2021councillor5,Leduc County,,AB,Tanni,Doblanko,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+947,,LeducCounty2021councillor6,Leduc County,,AB,Glenn,Belozer,Independent,247.0,489.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+948,,LeducCounty2021councillor6,Leduc County,,AB,Sam,Kobeluck,Independent,242.0,489.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+949,,LeducCounty2021councillor7,Leduc County,,AB,Pamela,Fouillard,Independent,186.0,459.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+950,,LeducCounty2021councillor7,Leduc County,,AB,Raymond,Scobie,Independent,273.0,459.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+951,,Beaumont2021mayor99,Beaumont,,AB,Bill,Daneluik,Independent,2267.0,4497.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+952,,Beaumont2021mayor99,Beaumont,,AB,Rodney,Erismann,Independent,108.0,4497.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+953,,Beaumont2021mayor99,Beaumont,,AB,Coreina,Hubert,Independent,159.0,4497.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+954,,Beaumont2021mayor99,Beaumont,,AB,John,Stewart,Independent,968.0,4497.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+955,,Beaumont2021mayor99,Beaumont,,AB,Chantal,Yardley,Independent,995.0,4497.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+956,,Beaumont2021councillor99,Beaumont,,AB,Kathy,Barnhart,Independent,2104.0,22288.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+957,,Beaumont2021councillor99,Beaumont,,AB,David,Hamilton,Independent,636.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+958,,Beaumont2021councillor99,Beaumont,,AB,Jason,Hart,Independent,1036.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+959,,Beaumont2021councillor99,Beaumont,,AB,Perry,Hendriks,Independent,1620.0,22288.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+960,,Beaumont2021councillor99,Beaumont,,AB,Nam,Kular,Independent,946.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+961,,Beaumont2021councillor99,Beaumont,,AB,Catherine,McCook,Independent,1870.0,22288.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+962,,Beaumont2021councillor99,Beaumont,,AB,Ashley,Miller,Independent,2567.0,22288.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+963,,Beaumont2021councillor99,Beaumont,,AB,Sam,Munckhof-Swain,Independent,2216.0,22288.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+964,,Beaumont2021councillor99,Beaumont,,AB,Philip,Penrod,Independent,1337.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+965,,Beaumont2021councillor99,Beaumont,,AB,Karunesh,Saroya,Independent,815.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+966,,Beaumont2021councillor99,Beaumont,,AB,Yash,Sharma,Independent,546.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+967,,Beaumont2021councillor99,Beaumont,,AB,Gary,Sran,Independent,749.0,22288.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+968,,Beaumont2021councillor99,Beaumont,,AB,Martin,Stout,Independent,1444.0,22288.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+969,,Beaumont2021councillor99,Beaumont,,AB,Rene,Tessier,Independent,2418.0,22288.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+970,,Beaumont2021councillor99,Beaumont,,AB,Steven,vanNieuwkerk,Independent,1984.0,22288.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+971,,ParklandCounty2021mayor99,Parkland County,,AB,Allan,Gamble,Independent,2889.0,7538.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+972,,ParklandCounty2021mayor99,Parkland County,,AB,Donald J.,Heron,Independent,1927.0,7538.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+973,,ParklandCounty2021mayor99,Parkland County,,AB,Jerry John,Molnar,Independent,717.0,7538.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+974,,ParklandCounty2021mayor99,Parkland County,,AB,Kathy,Rondeau,Independent,2005.0,7538.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+975,,ParklandCounty2021councillor1,Parkland County,,AB,Rhonda,Bignell,Independent,504.0,1341.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+976,,ParklandCounty2021councillor1,Parkland County,,AB,Sally,Kucher Johnson,Independent,837.0,1341.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+977,,ParklandCounty2021councillor2,Parkland County,,AB,Kristina,Kowalski,Independent,,,0,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+978,,ParklandCounty2021councillor3,Parkland County,,AB,Phyllis,Kobasiuk,Independent,848.0,1476.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+979,,ParklandCounty2021councillor3,Parkland County,,AB,Amy,Quintal,Independent,628.0,1476.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+980,,ParklandCounty2021councillor4,Parkland County,,AB,Natalie,Birnie,Independent,390.0,1239.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+981,,ParklandCounty2021councillor4,Parkland County,,AB,Darrell,Hollands,Independent,358.0,1239.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+982,,ParklandCounty2021councillor4,Parkland County,,AB,Joanne,Russell,Independent,368.0,1239.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+983,,ParklandCounty2021councillor4,Parkland County,,AB,Echo-Lynn,Williams,Independent,123.0,1239.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+984,,ParklandCounty2021councillor5,Parkland County,,AB,John Alexander,McNab,Independent,473.0,1278.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+985,,ParklandCounty2021councillor5,Parkland County,,AB,Charlene,Smylie,Independent,292.0,1278.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+986,,ParklandCounty2021councillor5,Parkland County,,AB,Rob,Wiedeman,Independent,513.0,1278.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+987,,ParklandCounty2021councillor6,Parkland County,,AB,Spencer,Clarke,Independent,127.0,886.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+988,,ParklandCounty2021councillor6,Parkland County,,AB,Allan William,Hoefsloot,Independent,290.0,886.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+989,,ParklandCounty2021councillor6,Parkland County,,AB,Edward,Machuk,Independent,234.0,886.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+990,,ParklandCounty2021councillor6,Parkland County,,AB,Jasmine,Nuthall,Independent,173.0,886.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+991,,ParklandCounty2021councillor6,Parkland County,,AB,Audrey,Treit,Independent,62.0,886.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+992,,StonyPlain2021mayor99,Stony Plain,,AB,William,Choy,Independent,3126.0,4154.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+993,,StonyPlain2021mayor99,Stony Plain,,AB,Sheldon,Gron,Independent,1028.0,4154.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+994,,StonyPlain2021councillor99,Stony Plain,,AB,Justin,Anderson,Independent,2264.0,18776.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+995,,StonyPlain2021councillor99,Stony Plain,,AB,Pat,Hansard,Independent,1695.0,18776.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+996,,StonyPlain2021councillor99,Stony Plain,,AB,Justin,Laurie,Independent,2336.0,18776.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+997,,StonyPlain2021councillor99,Stony Plain,,AB,Melanie,Loyns,Independent,1755.0,18776.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+998,,StonyPlain2021councillor99,Stony Plain,,AB,Eric,Meyer,Independent,2337.0,18776.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+999,,StonyPlain2021councillor99,Stony Plain,,AB,Harold,Pawlechko,Independent,1963.0,18776.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1000,,StonyPlain2021councillor99,Stony Plain,,AB,Hughena,Burke,Independent,1381.0,18776.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1001,,StonyPlain2021councillor99,Stony Plain,,AB,Malcolm,Davidson,Independent,839.0,18776.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1002,,StonyPlain2021councillor99,Stony Plain,,AB,Cody,Friedel,Independent,1259.0,18776.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1003,,StonyPlain2021councillor99,Stony Plain,,AB,Casey,Plaizier,Independent,1665.0,18776.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1004,,StonyPlain2021councillor99,Stony Plain,,AB,Hali,Fitzpatrick,Independent,1282.0,18776.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,99.0,Canadian Municipal Barometer
+1005,,SturgeonCounty2021mayor99,Sturgeon County,,AB,Alanna,Hnatiw,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1006,,SturgeonCounty2021councillor1,Sturgeon County,,AB,Dan,Derouin,Independent,,,1,1,1,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+1007,,SturgeonCounty2021councillor2,Sturgeon County,,AB,Kristin,Toms,Independent,,,1,1,1,F,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+1008,,SturgeonCounty2021councillor3,Sturgeon County,,AB,Matthew,McLennan,Independent,636.0,1037.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+1009,,SturgeonCounty2021councillor3,Sturgeon County,,AB,Wayne,Bokenfohr,Independent,401.0,1037.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+1010,,SturgeonCounty2021councillor4,Sturgeon County,,AB,Neal,Comeau,Independent,428.0,650.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+1011,,SturgeonCounty2021councillor4,Sturgeon County,,AB,Robin,Fuhr,Independent,222.0,650.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+1012,,SturgeonCounty2021councillor5,Sturgeon County,,AB,Lee,Danchuk,Independent,133.0,889.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1013,,SturgeonCounty2021councillor5,Sturgeon County,,AB,Walker,Hnatiw,Independent,75.0,889.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1014,,SturgeonCounty2021councillor5,Sturgeon County,,AB,Jonathan,Kilbourn,Independent,127.0,889.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1015,,SturgeonCounty2021councillor5,Sturgeon County,,AB,Harco,Middelkamp,Independent,158.0,889.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1016,,SturgeonCounty2021councillor5,Sturgeon County,,AB,Deanna,Stang,Independent,396.0,889.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1017,,SturgeonCounty2021councillor6,Sturgeon County,,AB,Ronald,Shaw,Independent,305.0,546.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+1018,,SturgeonCounty2021councillor6,Sturgeon County,,AB,Jason,Berry,Independent,241.0,546.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+1019,,StrathconaCounty2021mayor99,Strathcona County,,AB,Rod,Frank,Independent,17571.0,30342.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1020,,StrathconaCounty2021mayor99,Strathcona County,,AB,Dave,Quest,Independent,5539.0,30342.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1021,,StrathconaCounty2021mayor99,Strathcona County,,AB,Albert (Al),Biel,Independent,3402.0,30342.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1022,,StrathconaCounty2021mayor99,Strathcona County,,AB,Annie,McKitrick,Independent,3343.0,30342.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1023,,StrathconaCounty2021mayor99,Strathcona County,,AB,David,Dixon,Independent,487.0,30342.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Mayor,99.0,Canadian Municipal Barometer
+1024,,StrathconaCounty2021councillor1,Strathcona County,,AB,Robert,Parks,Independent,1912.0,4123.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+1025,,StrathconaCounty2021councillor1,Strathcona County,,AB,Ray,McCartney,Independent,833.0,4123.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+1026,,StrathconaCounty2021councillor1,Strathcona County,,AB,Paul,Wielens,Independent,790.0,4123.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+1027,,StrathconaCounty2021councillor1,Strathcona County,,AB,Doug,Best,Independent,588.0,4123.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,1.0,Canadian Municipal Barometer
+1028,,StrathconaCounty2021councillor2,Strathcona County,,AB,Dave,Anderson,Independent,3038.0,4402.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+1029,,StrathconaCounty2021councillor2,Strathcona County,,AB,Leonard,Goulet,Independent,1364.0,4402.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,2.0,Canadian Municipal Barometer
+1030,,StrathconaCounty2021councillor3,Strathcona County,,AB,Lorne,Harvey,Independent,2024.0,3854.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+1031,,StrathconaCounty2021councillor3,Strathcona County,,AB,Brian,Botterill,Independent,1263.0,3854.0,1,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+1032,,StrathconaCounty2021councillor3,Strathcona County,,AB,Teunis,Kruger,Independent,567.0,3854.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,3.0,Canadian Municipal Barometer
+1033,,StrathconaCounty2021councillor4,Strathcona County,,AB,Bill,Tonita,Independent,2792.0,4459.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+1034,,StrathconaCounty2021councillor4,Strathcona County,,AB,Hugh,Bell,Independent,1392.0,4459.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+1035,,StrathconaCounty2021councillor4,Strathcona County,,AB,Isaac,Cameron,Independent,275.0,4459.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,4.0,Canadian Municipal Barometer
+1036,,StrathconaCounty2021councillor5,Strathcona County,,AB,Aaron C.,Nelson,Independent,1190.0,2808.0,0,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1037,,StrathconaCounty2021councillor5,Strathcona County,,AB,Daryl,Marler,Independent,840.0,2808.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1038,,StrathconaCounty2021councillor5,Strathcona County,,AB,Leighton,Larson,Independent,670.0,2808.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1039,,StrathconaCounty2021councillor5,Strathcona County,,AB,Ken,Timperley,Independent,108.0,2808.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,5.0,Canadian Municipal Barometer
+1040,,StrathconaCounty2021councillor6,Strathcona County,,AB,Corey-Ann,Hartwick,Independent,1339.0,2877.0,0,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+1041,,StrathconaCounty2021councillor6,Strathcona County,,AB,Alan,Dunn,Independent,965.0,2877.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+1042,,StrathconaCounty2021councillor6,Strathcona County,,AB,Vaun,Gage,Independent,573.0,2877.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,6.0,Canadian Municipal Barometer
+1043,,StrathconaCounty2021councillor7,Strathcona County,,AB,Glen,Lawrence,Independent,1213.0,2531.0,1,1,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+1044,,StrathconaCounty2021councillor7,Strathcona County,,AB,Harvey,Grabill,Independent,715.0,2531.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+1045,,StrathconaCounty2021councillor7,Strathcona County,,AB,Dylan,Bohaychuk,Independent,603.0,2531.0,0,0,0,M,2021,2021-10-18T00:00:00Z,Councillor,7.0,Canadian Municipal Barometer
+1046,,StrathconaCounty2021councillor8,Strathcona County,,AB,Katie,Berghofer,Independent,2877.0,4592.0,1,1,0,F,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+1047,,StrathconaCounty2021councillor8,Strathcona County,,AB,Rahat,Abdulla,Independent,1715.0,4592.0,0,0,0,F,2021,2021-10-18T00:00:00Z,Councillor,8.0,Canadian Municipal Barometer
+1048,,BonnyvilleNo.872021reeve99,Bonnyville No. 87,,AB,Barry,Kalinski,Independent,2227.0,4105.0,0,1,0,M,2021,,Reeve,99.0,Canadian Municipal Barometer
+1049,,BonnyvilleNo.872021reeve99,Bonnyville No. 87,,AB,Greg,Sawchuk,Independent,1878.0,4105.0,1,0,0,M,2021,,Reeve,99.0,Canadian Municipal Barometer
+1050,,BonnyvilleNo.872021councillor1,Bonnyville No. 87,,AB,Josh,Crick,Independent,398.0,732.0,0,1,0,M,2021,,Councillor,1.0,Canadian Municipal Barometer
+1051,,BonnyvilleNo.872021councillor1,Bonnyville No. 87,,AB,Louise,White,Independent,88.0,732.0,0,0,0,F,2021,,Councillor,1.0,Canadian Municipal Barometer
+1052,,BonnyvilleNo.872021councillor1,Bonnyville No. 87,,AB,Marc,Jubinville,Independent,246.0,732.0,1,0,0,M,2021,,Councillor,1.0,Canadian Municipal Barometer
+1053,,BonnyvilleNo.872021councillor2,Bonnyville No. 87,,AB,David,Fox,Independent,259.0,949.0,0,0,0,M,2021,,Councillor,2.0,Canadian Municipal Barometer
+1054,,BonnyvilleNo.872021councillor2,Bonnyville No. 87,,AB,Kurt,Richard,Independent,255.0,949.0,0,0,0,M,2021,,Councillor,2.0,Canadian Municipal Barometer
+1055,,BonnyvilleNo.872021councillor2,Bonnyville No. 87,,AB,Darcy,Skarsen,Independent,435.0,949.0,1,1,0,M,2021,,Councillor,2.0,Canadian Municipal Barometer
+1056,,BonnyvilleNo.872021councillor3,Bonnyville No. 87,,AB,Mike,Krywiak,Independent,276.0,546.0,1,1,0,M,2021,,Councillor,3.0,Canadian Municipal Barometer
+1057,,BonnyvilleNo.872021councillor3,Bonnyville No. 87,,AB,Lawrence,Makaruk,Independent,270.0,546.0,0,0,0,M,2021,,Councillor,3.0,Canadian Municipal Barometer
+1058,,BonnyvilleNo.872021councillor4,Bonnyville No. 87,,AB,Edward,Duchesne,Independent,310.0,685.0,1,0,0,M,2021,,Councillor,4.0,Canadian Municipal Barometer
+1059,,BonnyvilleNo.872021councillor4,Bonnyville No. 87,,AB,Don,Slipchuk,Independent,324.0,685.0,0,0,0,M,2021,,Councillor,4.0,Canadian Municipal Barometer
+1060,,BonnyvilleNo.872021councillor4,Bonnyville No. 87,,AB,Marvin,Tkachuk,Independent,51.0,685.0,0,0,0,M,2021,,Councillor,4.0,Canadian Municipal Barometer
+1061,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Angela,Cook,Independent,109.0,676.0,0,0,0,F,2021,,Councillor,5.0,Canadian Municipal Barometer
+1062,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Roy,Dell,Independent,35.0,676.0,0,0,0,M,2021,,Councillor,5.0,Canadian Municipal Barometer
+1063,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Monika,Iverson,Independent,91.0,676.0,0,0,0,F,2021,,Councillor,5.0,Canadian Municipal Barometer
+1064,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Dana,Swigart,Independent,233.0,676.0,1,1,0,M,2021,,Councillor,5.0,Canadian Municipal Barometer
+1065,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Erwin,Thompson,Independent,20.0,676.0,0,0,0,M,2021,,Councillor,5.0,Canadian Municipal Barometer
+1066,,BonnyvilleNo.872021councillor5,Bonnyville No. 87,,AB,Andy,Wakaruk,Independent,188.0,676.0,0,0,0,M,2021,,Councillor,5.0,Canadian Municipal Barometer
+1067,,BonnyvilleNo.872021councillor6,Bonnyville No. 87,,AB,Ben,Fadeyiw,Independent,338.0,640.0,1,1,0,M,2021,,Councillor,6.0,Canadian Municipal Barometer
+1068,,BonnyvilleNo.872021councillor6,Bonnyville No. 87,,AB,Diane,Jenkinson,Independent,302.0,640.0,0,0,0,F,2021,,Councillor,6.0,Canadian Municipal Barometer

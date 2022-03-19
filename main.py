@@ -1,6 +1,9 @@
 # get webpages
 from requests import *
 from requests_html import HTMLSession
+from pandas import *
+
+
 
 # define url
 search_terms = "municipal+election"
@@ -14,17 +17,22 @@ response = session.get(url)
 response.html.render() # render javascript
 
 urls_out = []
-for html in response.html:
 
-    # get article url containers
-    containers = response.html.find(selector='.article-card__link')
+# loop through names
+for name in names:
 
-    # isolate the hrefs from the container list items
-    containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
-    hrefs = [container.split("href='")[1] for container in containers] # split the hrefs out of the class and select the 1th element (the href, not the string before the split pattern
-    hrefs = [href[0:len(href)-2] for href in hrefs] # clean trailing characters from hrefs
+    # loop over pages
+    for html in response.html:
 
-    # create article urls
-    urls = ['https://calgaryherald.com'+href for href in hrefs]
+        # get article url containers
+        containers = response.html.find(selector='.article-card__link')
 
-    return urls_out = urls_out + urls
+        # isolate the hrefs from the container list items
+        containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
+        hrefs = [container.split("href='")[1] for container in containers] # split the hrefs out of the class and select the 1th element (the href, not the string before the split pattern
+        hrefs = [href[0:len(href)-2] for href in hrefs] # clean trailing characters from hrefs
+
+        # create article urls
+        urls = ['https://calgaryherald.com'+href for href in hrefs]
+
+        return urls_out = urls_out + urls
