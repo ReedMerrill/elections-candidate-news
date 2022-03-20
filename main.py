@@ -1,8 +1,9 @@
 from requests_html import HTMLSession
+import time
 import pandas as pd
 
 # get names for search terms
-df = pd.read_csv('ab2021_elec.csv', )
+df = pd.read_csv('ab2021_elec.csv')
 
 # filter to Calgary only
 calgary = df[df.municipality.eq('Calgary')]
@@ -20,6 +21,9 @@ timeframe = "-365d"
 # get the webpage
 session = HTMLSession()
 
+# initialize list for urls from the loop that iterates the name searches
+all_urls = []
+
 # make a url with each name in names as the search pattern on the news site
 for name in names:
 
@@ -29,14 +33,20 @@ for name in names:
     response = session.get(url) # get response
     response.html.render()  # render javascript
 
-    # initialize list for urls from the loop that iterates the name searches
-    all_urls = []
+    print("Extracting article links for " + name.replace("+", " ") + ".")
 
+    page_num = 1
+
+    """NEED TO TEST THIS LOOP INDEPENDENTLY"""
     # loop over pages of search results
     for html in response.html:
 
+        print("Extracting page " + str(page_num) + ".")
+
         # get article url containers
         containers = response.html.find(selector='.article-card__link')
+
+        print("Got containers for page " + str(page_num) + ".")
 
         # isolate the hrefs from the container list items
         containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
@@ -46,4 +56,10 @@ for name in names:
         # create article urls
         urls_single_search = ['https://calgaryherald.com' + href for href in hrefs]
 
+        page_num += 1
+
+        time.sleep(1) # throttle the scrape by 1 sec for each iteration
+
     all_urls = all_urls + urls_single_search
+
+    print("Done with " + name + ".")
