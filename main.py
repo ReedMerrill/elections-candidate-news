@@ -41,25 +41,3 @@ for name in names:
     # loop over pages of search results
     for html in response.html:
 
-        print("Extracting page " + str(page_num) + ".")
-
-        # get article url containers
-        containers = response.html.find(selector='.article-card__link')
-
-        print("Got containers for page " + str(page_num) + ".")
-
-        # isolate the hrefs from the container list items
-        containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
-        hrefs = [container.split("href='")[1] for container in containers] # split the hrefs out of the class and select the 1st element (the href, not the string before the split pattern
-        hrefs = [href[0:len(href)-2] for href in hrefs] # clean trailing characters from hrefs
-
-        # create article urls
-        urls_single_search = ['https://calgaryherald.com' + href for href in hrefs]
-
-        page_num += 1
-
-        time.sleep(1) # throttle the scrape by 1 sec for each iteration
-
-    all_urls = all_urls + urls_single_search
-
-    print("Done with " + name + ".")
