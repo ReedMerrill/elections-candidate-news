@@ -1,9 +1,9 @@
 from requests_html import HTMLSession
-import time
 import pandas as pd
+import time
 
 # get names for search terms
-df = pd.read_csv('ab2021_elec.csv')
+df = pd.read_csv('ab2021_elec.csv', )
 
 # filter to Calgary only
 calgary = df[df.municipality.eq('Calgary')]
@@ -22,22 +22,34 @@ timeframe = "-365d"
 session = HTMLSession()
 
 # initialize list for urls from the loop that iterates the name searches
-candidate_urls = []
+all_urls = []
 
-names = ['Ian+Chiang', 'Jan Damery']
+# shortened names list for testing
+names = ['Ian+Chiang', 'Jan+yyDamery']
 
-# make a url with each name in names as the search pattern on the news site
+# make a url that visits the first page of search results using each candidate's first and last names as the search pattern pattern
 for name in names:
 
     # form url with name of candidate from list of names
     url = "https://calgaryherald.com/search/?search_text=" + name + "&date_range=" + timeframe + "&sort=score&from=0"
 
+    # render full page
     response = session.get(url) # get response
     response.html.render()  # render javascript
 
-    candidate_urls += response
+    # loop over pages of search results, extracting article names from each
+    for html in response.html:
 
-    print("First search page for " + name.replace("+", " ") + " is saved.")
+        # get article url containers
+        containers = response.html.find(selector='.article-card__link')
 
-    time.sleep(3)
+        # isolate the hrefs from the container list items
+        containers = [str(container) for container in containers] # convert list elements to string, cause who know what they were before this
+        hrefs = [container.split("href='")[1] for container in containers] # split the hrefs out of the class and select the 1st element (the href, not the string before the split pattern
+        hrefs = [href[0:len(href)-2] for href in hrefs] # clean trailing characters from hrefs
+
+        # create article urls
+        urls_single_search = ['https://calgaryherald.com' + href for href in hrefs]
+
+        all_urls = all_urls + urls_single_search
 
