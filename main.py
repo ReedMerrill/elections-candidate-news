@@ -22,7 +22,9 @@ timeframe = "-365d"
 session = HTMLSession()
 
 # initialize list for urls from the loop that iterates the name searches
-all_urls = []
+candidate_urls = []
+
+names = ['Ian+Chiang', 'Jan Damery']
 
 # make a url with each name in names as the search pattern on the news site
 for name in names:
@@ -33,11 +35,9 @@ for name in names:
     response = session.get(url) # get response
     response.html.render()  # render javascript
 
-    print("Extracting article links for " + name.replace("+", " ") + ".")
+    candidate_urls += response
 
-    page_num = 1
+    print("First search page for " + name.replace("+", " ") + " is saved.")
 
-    """NEED TO TEST THIS LOOP INDEPENDENTLY"""
-    # loop over pages of search results
-    for html in response.html:
+    time.sleep(3)
 
